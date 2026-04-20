@@ -1350,6 +1350,87 @@
     "coordinates": [41.1003, -73.4082]
   },
   {
+    "id": "amnh",
+    "name": "American Museum of Natural History",
+    "address": "200 Central Park West, New York, NY 10024",
+    "neighborhood": "Upper West Side, NYC",
+    "deal": "One of the world's largest natural history museums — dinosaur fossils, the blue whale, Rose Center for Earth and Space. Buy tickets in advance.",
+    "when": "New York City",
+    "coordinates": [40.7813, -73.9740]
+  },
+  {
+    "id": "central-park",
+    "name": "Central Park",
+    "address": "Central Park, New York, NY 10024",
+    "neighborhood": "Upper West Side, NYC",
+    "deal": "Walk the full length of the park. Don't miss Belvedere Castle (mid-park, great views), Sheep's Meadow (open lawn, great for lounging), and the Reservoir.",
+    "when": "New York City",
+    "coordinates": [40.7829, -73.9654]
+  },
+  {
+    "id": "belvedere-castle",
+    "name": "Belvedere Castle",
+    "address": "Central Park, New York, NY 10024",
+    "neighborhood": "Central Park, NYC",
+    "deal": "Victorian Gothic castle perched on Vista Rock in the middle of Central Park — one of the best views in the park looking out over Turtle Pond and the Great Lawn",
+    "when": "New York City",
+    "coordinates": [40.7795, -73.9690]
+  },
+  {
+    "id": "sheeps-meadow",
+    "name": "Sheep's Meadow",
+    "address": "Central Park, New York, NY 10019",
+    "neighborhood": "Central Park, NYC",
+    "deal": "15-acre open lawn in the southern end of Central Park — the classic NYC scene of people lounging with the skyline as a backdrop",
+    "when": "New York City",
+    "coordinates": [40.7723, -73.9765]
+  },
+  {
+    "id": "the-vessel",
+    "name": "The Vessel — Hudson Yards",
+    "address": "20 Hudson Yards, New York, NY 10001",
+    "neighborhood": "Hudson Yards, NYC",
+    "deal": "Honeycomb-like climbable sculpture with 154 staircases and 2,500 steps. The Shed and Edge observation deck are right next door.",
+    "when": "New York City",
+    "coordinates": [40.7536, -74.0022]
+  },
+  {
+    "id": "high-line",
+    "name": "The High Line",
+    "address": "New York, NY 10011",
+    "neighborhood": "Chelsea / Meatpacking District, NYC",
+    "deal": "Elevated linear park built on a former freight rail line — 1.45 miles of gardens, art installations, and views over the Hudson. Start at 34th St and walk south to the Meatpacking District.",
+    "when": "New York City",
+    "coordinates": [40.7480, -74.0048]
+  },
+  {
+    "id": "chelsea-market",
+    "name": "Chelsea Market",
+    "address": "75 9th Ave, New York, NY 10011",
+    "neighborhood": "Chelsea, NYC",
+    "deal": "Iconic indoor food hall and shopping market built inside the old Nabisco factory — great vendors, Lobster Place, Los Tacos No. 1, and more",
+    "when": "New York City",
+    "coordinates": [40.7424, -74.0059]
+  },
+  {
+    "id": "little-island",
+    "name": "Little Island",
+    "address": "Pier 55, Hudson River Park, New York, NY 10014",
+    "neighborhood": "Meatpacking District, NYC",
+    "deal": "Whimsical public park floating on the Hudson River on 132 tulip-shaped concrete pots. Free entry, great views of the river and city. Open seasonally.",
+    "when": "New York City",
+    "coordinates": [40.7393, -74.0099]
+  },
+  {
+    "id": "west-village-dinner",
+    "name": "West Village",
+    "address": "West Village, New York, NY 10014",
+    "neighborhood": "West Village, NYC",
+    "deal": "NYC's most charming neighborhood for dinner — cobblestone streets lined with Italian restaurants. Top picks: Buvette, Via Carota, and L'Artusi.",
+    "when": "New York City",
+    "coordinates": [40.7339, -74.0070]
+  },
+  {
     "id": "westfair-fish-chips",
     "name": "Westfair Fish & Chips",
     "address": "1 Riverside Ave, Westport, CT 06880",
