@@ -1278,6 +1278,96 @@
     "coordinates": [36.9757, -121.9535]
   },
   {
+    "id": "old-faithful-upper-geyser",
+    "name": "Old Faithful & Upper Geyser Basin",
+    "address": "Upper Geyser Basin, Yellowstone National Park, WY 82190",
+    "neighborhood": "Yellowstone National Park, Wyoming",
+    "deal": "150+ geysers in one square mile — the largest concentration in the park. Rent bikes at Old Faithful to turn the 90-min walk into a <20-min ride. Grand Geyser and Riverside Geyser are both \"worth the wait.\"",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [44.4605, -110.8281]
+  },
+  {
+    "id": "grand-prismatic-spring",
+    "name": "Grand Prismatic Spring & Overlook",
+    "address": "Midway Geyser Basin, Yellowstone National Park, WY 82190",
+    "neighborhood": "Yellowstone National Park, Wyoming",
+    "deal": "Third-deepest hot spring in the world with stunning rainbow-colored rings. Take the short overlook trail from Fairy Falls trailhead (less crowded than the main boardwalk). Firehole River boardwalk snakes through the thermal area past Excelsior Geyser, Turquoise Pool, and Opal Pool.",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [44.5250, -110.8383]
+  },
+  {
+    "id": "norris-geyser-basin",
+    "name": "Norris Geyser Basin",
+    "address": "Norris Geyser Basin, Yellowstone National Park, WY 82190",
+    "neighborhood": "Yellowstone National Park, Wyoming",
+    "deal": "Hottest and most dynamic geyser basin in Yellowstone — home to Steamboat Geyser, the tallest active geyser in the world. Take the boardwalk through Porcelain Basin (0.5 mi) then Back Basin (1.5 mi).",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [44.7275, -110.7035]
+  },
+  {
+    "id": "mammoth-hot-springs",
+    "name": "Mammoth Hot Springs Terraces",
+    "address": "Mammoth Hot Springs, Yellowstone National Park, WY 82190",
+    "neighborhood": "Yellowstone National Park, Wyoming",
+    "deal": "\"A cave turned inside out\" — travertine terraces constantly reshaped by mineral-rich hot water. Lower Terrace Boardwalk has Liberty Cap and Minerva Spring. Upper Terrace Drive for the full overview.",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [44.9764, -110.7019]
+  },
+  {
+    "id": "grand-canyon-yellowstone",
+    "name": "Grand Canyon of the Yellowstone",
+    "address": "Canyon Village, Yellowstone National Park, WY 82190",
+    "neighborhood": "Yellowstone National Park, Wyoming",
+    "deal": "Artist Point is the iconic viewpoint of the Lower Falls — the tallest waterfall in Yellowstone at 308 feet. Also see Upper Falls and Crystal Falls. Tower Fall overlook and Mount Washburn trailhead (6.2 mi, bighorn sheep) are nearby.",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [44.7177, -110.4962]
+  },
+  {
+    "id": "hayden-valley",
+    "name": "Hayden Valley",
+    "address": "Hayden Valley, Yellowstone National Park, WY 82190",
+    "neighborhood": "Yellowstone National Park, Wyoming",
+    "deal": "One of the best wildlife-watching spots in Yellowstone — bison herds, grizzly bears, wolves, and trumpeter swans. Yellowstone Lake Overlook Trail (1.7 mi) is just south.",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [44.6611, -110.4793]
+  },
+  {
+    "id": "jenny-lake",
+    "name": "Jenny Lake & Inspiration Point",
+    "address": "Jenny Lake, Grand Teton National Park, WY 83012",
+    "neighborhood": "Grand Teton National Park, Wyoming",
+    "deal": "5.7-mile hike from the visitor center to Inspiration Point above Hidden Falls. Take the boat shuttle across the lake to save 2 miles. Taggart Lake Loop (3.8 mi) is a great shorter alternative nearby.",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [43.7491, -110.7296]
+  },
+  {
+    "id": "signal-mountain",
+    "name": "Signal Mountain Summit",
+    "address": "Signal Mountain Rd, Grand Teton National Park, WY 83013",
+    "neighborhood": "Grand Teton National Park, Wyoming",
+    "deal": "Drive to the summit for sweeping views of the full Teton Range and Jackson Hole Valley. One of the best panoramas in the park with no hiking required.",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [43.8412, -110.6048]
+  },
+  {
+    "id": "snake-river-overlook",
+    "name": "Snake River Overlook & Oxbow Bend",
+    "address": "US-191, Grand Teton National Park, WY 83013",
+    "neighborhood": "Grand Teton National Park, Wyoming",
+    "deal": "Snake River Overlook is Ansel Adams' most famous shot — sweeping S-curve of the river with the Tetons behind it. Oxbow Bend a few miles north is prime wildlife and reflection photography at sunrise.",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [43.8037, -110.6664]
+  },
+  {
+    "id": "schwabachers-landing",
+    "name": "Schwabacher's Landing & Mormon Row",
+    "address": "Schwabacher Rd, Grand Teton National Park, WY 83012",
+    "neighborhood": "Grand Teton National Park, Wyoming",
+    "deal": "Schwabacher's Landing: glassy beaver ponds perfectly mirror the Teton Range at dawn. Mormon Row: iconic historic barns set against the mountains — one of the most photographed spots in the American West.",
+    "when": "Wyoming, Sep 2025",
+    "coordinates": [43.7085, -110.6795]
+  },
+  {
     "id": "coffee-an-donut-shop",
     "name": "Coffee An' Donut Shop",
     "address": "343 Post Rd E, Westport, CT 06880",
