@@ -1368,6 +1368,87 @@
     "coordinates": [43.7085, -110.6795]
   },
   {
+    "id": "la-fortuna-waterfall",
+    "name": "La Fortuna Waterfall",
+    "address": "La Fortuna de San Carlos, Alajuela Province",
+    "neighborhood": "La Fortuna, Costa Rica",
+    "deal": "170-ft waterfall with a 15-min walk down and a 30-min swim at the base. $20/pp. One of the most stunning waterfalls in Costa Rica.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [10.4427, -84.5551]
+  },
+  {
+    "id": "mistico-hanging-bridges",
+    "name": "Mistico Hanging Bridges",
+    "address": "La Fortuna, Alajuela Province",
+    "neighborhood": "La Fortuna, Costa Rica",
+    "deal": "6 hanging bridges through the rainforest canopy, ~2 miles total (1 hour). Great for birdwatching and wildlife spotting. $32/pp.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [10.4795, -84.6193]
+  },
+  {
+    "id": "el-salto-rope-swing",
+    "name": "El Salto Rope Swing",
+    "address": "La Fortuna, Alajuela Province",
+    "neighborhood": "La Fortuna, Costa Rica",
+    "deal": "Free rope swing into the river — a local favorite. One of the best free activities in La Fortuna.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [10.4683, -84.6432]
+  },
+  {
+    "id": "arenal-volcano",
+    "name": "Arenal Volcano National Park",
+    "address": "La Fortuna, Alajuela Province",
+    "neighborhood": "La Fortuna, Costa Rica",
+    "deal": "Hike through hardened lava fields at the base of one of the world's most active volcanoes. Buy tickets at the door — online tickets currently unavailable. $15/pp. About 2 hours.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [10.4626, -84.7030]
+  },
+  {
+    "id": "tabacon-hot-springs",
+    "name": "Tabacón Hot Springs",
+    "address": "La Fortuna, Alajuela Province",
+    "neighborhood": "La Fortuna, Costa Rica",
+    "deal": "Lush resort hot springs fed by the Arenal Volcano — cascading thermal pools surrounded by tropical gardens. $89/pp.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [10.4776, -84.7197]
+  },
+  {
+    "id": "manuel-antonio-np",
+    "name": "Manuel Antonio National Park",
+    "address": "Manuel Antonio, Puntarenas Province",
+    "neighborhood": "Manuel Antonio, Costa Rica",
+    "deal": "Costa Rica's most popular park — beach and wildlife (sloths and monkeys) in one. Manuel Antonio Main Trail (1.3 mi flat) links to Escondido Beach, Manuel Antonio Beach, and Espadilla Sur. Playa Espadilla Norte is best for sunset. Closes at 4 PM, closed Tuesdays. $16/pp.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [9.3904, -84.1364]
+  },
+  {
+    "id": "biesanz-beach",
+    "name": "Biesanz Beach",
+    "address": "Manuel Antonio, Puntarenas Province",
+    "neighborhood": "Manuel Antonio, Costa Rica",
+    "deal": "Secluded beach with calm waters — perfect for swimming and kayaking. Much quieter than the national park beaches.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [9.3858, -84.1513]
+  },
+  {
+    "id": "crocodile-bridge-tarcoles",
+    "name": "Crocodile Bridge — Tarcoles",
+    "address": "Tarcoles Bridge, Puntarenas Province",
+    "neighborhood": "Tarcoles, Costa Rica",
+    "deal": "Pull over on the bridge over the Río Tárcoles for a free, up-close look at dozens of massive American crocodiles sunning on the riverbanks below.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [9.7744, -84.6279]
+  },
+  {
+    "id": "hotel-villa-caletas-jaco",
+    "name": "Hotel Villa Caletas — Jaco",
+    "address": "Jaco, Puntarenas Province",
+    "neighborhood": "Jaco, Costa Rica",
+    "deal": "You don't need to be a guest — tell them you're there to watch the sunset. Stunning clifftop views over the Pacific. Playa Hermosa (grey sand beach) is just south of Jaco town.",
+    "when": "Costa Rica, Aug 2024",
+    "coordinates": [9.6433, -84.6278]
+  },
+  {
     "id": "coffee-an-donut-shop",
     "name": "Coffee An' Donut Shop",
     "address": "343 Post Rd E, Westport, CT 06880",
