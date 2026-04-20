@@ -1276,5 +1276,86 @@
     "deal": "Colorful seaside village with a beach, boutiques, and Soquel Creek running to the ocean. Shark Fin Cove and Lighthouse Field State Beach nearby. Cafe Brasil for food.",
     "when": "San Francisco",
     "coordinates": [36.9757, -121.9535]
+  },
+  {
+    "id": "coffee-an-donut-shop",
+    "name": "Coffee An' Donut Shop",
+    "address": "343 Post Rd E, Westport, CT 06880",
+    "neighborhood": "Westport, CT",
+    "deal": "Local donut and sandwich shop — a Westport staple",
+    "when": "Westport, CT",
+    "coordinates": [41.1423, -73.3301]
+  },
+  {
+    "id": "golds-delicatessen",
+    "name": "Gold's Delicatessen",
+    "address": "43 Jesup Rd, Westport, CT 06880",
+    "neighborhood": "Westport, CT",
+    "deal": "Classic deli",
+    "when": "Westport, CT",
+    "coordinates": [41.1416, -73.3586]
+  },
+  {
+    "id": "westport-main-street",
+    "name": "Main Street Westport",
+    "address": "Main St, Westport, CT 06880",
+    "neighborhood": "Westport, CT",
+    "deal": "Walkable downtown strip with boutique shops and restaurants",
+    "when": "Westport, CT",
+    "coordinates": [41.1415, -73.3573]
+  },
+  {
+    "id": "westport-library",
+    "name": "Westport Library",
+    "address": "20 Jesup Rd, Westport, CT 06880",
+    "neighborhood": "Westport, CT",
+    "deal": "Beautiful modern library on the Saugatuck River — worth a visit for the river views",
+    "when": "Westport, CT",
+    "coordinates": [41.1401, -73.3627]
+  },
+  {
+    "id": "compo-beach",
+    "name": "Compo Beach",
+    "address": "Compo Beach Rd, Westport, CT 06880",
+    "neighborhood": "Westport, CT",
+    "deal": "Westport's main beach on Long Island Sound with a playground, picnic areas, and views across the water",
+    "when": "Westport, CT",
+    "coordinates": [41.1151, -73.3337]
+  },
+  {
+    "id": "romanacci-westport",
+    "name": "Romanacci",
+    "address": "Westport, CT 06880",
+    "neighborhood": "Westport, CT",
+    "deal": "Pizza",
+    "when": "Westport, CT",
+    "coordinates": [41.1392, -73.3511]
+  },
+  {
+    "id": "sherwood-diner",
+    "name": "Sherwood Diner",
+    "address": "Westport, CT 06880",
+    "neighborhood": "Westport, CT",
+    "deal": "Classic diner",
+    "when": "Westport, CT",
+    "coordinates": [41.1430, -73.3540]
+  },
+  {
+    "id": "truly-greek-norwalk",
+    "name": "Truly Greek",
+    "address": "Norwalk, CT 06850",
+    "neighborhood": "Norwalk, CT",
+    "deal": "Greek restaurant in nearby Norwalk",
+    "when": "Westport, CT",
+    "coordinates": [41.1003, -73.4082]
+  },
+  {
+    "id": "westfair-fish-chips",
+    "name": "Westfair Fish & Chips",
+    "address": "1 Riverside Ave, Westport, CT 06880",
+    "neighborhood": "Westport, CT",
+    "deal": "Fish & chips spot on the Saugatuck River",
+    "when": "Westport, CT",
+    "coordinates": [41.1408, -73.3591]
   }
 ]
