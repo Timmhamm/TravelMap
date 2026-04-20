@@ -844,5 +844,437 @@
     "deal": "Watch hundreds of Little Penguins waddle ashore at sunset — the world's largest little penguin colony. Book tickets in advance.",
     "when": "Australia, Feb 2023",
     "coordinates": [-38.5137, 145.3684]
+  },
+  {
+    "id": "rocky-mountain-np-bear-lake",
+    "name": "Rocky Mountain National Park — Bear Lake",
+    "address": "Bear Lake Rd, Estes Park, CO 80517",
+    "neighborhood": "Rocky Mountain National Park, Colorado",
+    "deal": "Park at the Park and Ride on Bear Lake Road and take the free shuttle. Bear Lake Loop (0.8 mi), Alberta Falls (2 mi, 30 ft waterfall), and Nymph/Dream/Emerald/Haiyaha Lake chain are all excellent.",
+    "when": "Colorado, Jul 2024",
+    "coordinates": [40.3129, -105.6462]
+  },
+  {
+    "id": "trail-ridge-road",
+    "name": "Trail Ridge Road",
+    "address": "Trail Ridge Rd, Rocky Mountain National Park, CO",
+    "neighborhood": "Rocky Mountain National Park, Colorado",
+    "deal": "Highest paved road in any US national park system. Spot bighorn sheep and elk! Highlights: Rainbow Curve Overlook, Forest Canyon Overlook, Alpine Visitor Center (highest in any national park), and Milner Pass (the Continental Divide).",
+    "when": "Colorado, Jul 2024",
+    "coordinates": [40.4126, -105.7568]
+  },
+  {
+    "id": "great-sand-dunes",
+    "name": "Great Sand Dunes National Park",
+    "address": "11999 CO-150, Mosca, CO 81146",
+    "neighborhood": "San Luis Valley, Colorado",
+    "deal": "Tallest sand dunes in North America — rent boards to ride them. Zapata Falls is a short hike nearby worth doing.",
+    "when": "Colorado, Jul 2024",
+    "coordinates": [37.7317, -105.5141]
+  },
+  {
+    "id": "mount-blue-sky",
+    "name": "Mount Blue Sky (formerly Mt. Evans)",
+    "address": "Mount Blue Sky Scenic Byway, Idaho Springs, CO 80452",
+    "neighborhood": "Clear Creek County, Colorado",
+    "deal": "One of Colorado's 14ers with a road to the summit. Echo Lake is a beautiful stop on the way up.",
+    "when": "Colorado, Jul 2024",
+    "coordinates": [39.5883, -105.6436]
+  },
+  {
+    "id": "meow-wolf-denver",
+    "name": "Meow Wolf Denver (Convergence Station)",
+    "address": "1338 1st St, Denver, CO 80204",
+    "neighborhood": "Denver, Colorado",
+    "deal": "Massive immersive art experience — four interconnected alien worlds spread across 90,000 sq ft. One of the best Meow Wolf locations.",
+    "when": "Colorado, Jul 2024",
+    "coordinates": [39.7490, -105.0105]
+  },
+  {
+    "id": "la-jolla-cove",
+    "name": "La Jolla Cove & Tide Pools",
+    "address": "303 Coast Blvd, La Jolla, CA 92037",
+    "neighborhood": "La Jolla, San Diego",
+    "deal": "During low tide you can run through the tidepool maze! Great for dolphin and whale watching. Watch sunset from the cove. Bobboi Natural Gelato nearby.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.8508, -117.2713]
+  },
+  {
+    "id": "childrens-pool-beach",
+    "name": "Children's Pool Beach",
+    "address": "850 Coast Blvd, La Jolla, CA 92037",
+    "neighborhood": "La Jolla, San Diego",
+    "deal": "Watch harbor seals and their pups bask on the beach. The concrete breakwater protects the cove.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.8471, -117.2725]
+  },
+  {
+    "id": "torrey-pines",
+    "name": "Torrey Pines State Natural Reserve",
+    "address": "12600 N Torrey Pines Rd, La Jolla, CA 92037",
+    "neighborhood": "La Jolla, San Diego",
+    "deal": "Scenic hiking trails through rare Torrey pine trees and soaring sea cliffs. Torrey Pines Gliderport above is great for watching hang gliders.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.9193, -117.2515]
+  },
+  {
+    "id": "coronado-beach",
+    "name": "Coronado Beach & Hotel del Coronado",
+    "address": "1500 Orange Ave, Coronado, CA 92118",
+    "neighborhood": "Coronado Island, San Diego",
+    "deal": "Wide, pristine beach next to the Victorian Hotel del Coronado — said to be the inspiration for the Emerald City in The Wizard of Oz. Ferry Landing has shops and art galleries.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.6836, -117.1780]
+  },
+  {
+    "id": "sunset-cliffs",
+    "name": "Sunset Cliffs Natural Park",
+    "address": "Sunset Cliffs Blvd, San Diego, CA 92107",
+    "neighborhood": "Ocean Beach, San Diego",
+    "deal": "Incomparable viewpoint — take in ocean panoramas as the sun transforms the horizon from blue to rosy-toned hues. Best at sunset.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.7212, -117.2565]
+  },
+  {
+    "id": "gaslamp-quarter",
+    "name": "Gaslamp Quarter",
+    "address": "Gaslamp Quarter, San Diego, CA 92101",
+    "neighborhood": "Downtown, San Diego",
+    "deal": "Historical Victorian architecture and hub of the city's nightlife. Seaport Village nearby is a delightful waterfront stroll (limited parking — walk from a bit away).",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.7128, -117.1610]
+  },
+  {
+    "id": "balboa-park",
+    "name": "Balboa Park",
+    "address": "1549 El Prado, San Diego, CA 92101",
+    "neighborhood": "Balboa Park, San Diego",
+    "deal": "1,200-acre park with 17 museums, the San Diego Zoo, Spanish Colonial Revival architecture, Japanese Friendship Garden, and the Botanical Building & Lily Pond.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.7341, -117.1447]
+  },
+  {
+    "id": "old-town-san-diego",
+    "name": "Old Town State Historic Park",
+    "address": "4002 Wallace St, San Diego, CA 92110",
+    "neighborhood": "Old Town, San Diego",
+    "deal": "One of the most visited state parks in California — preserves the history of early San Diego and Mexican-American culture. Harper's Topiary Garden is nearby.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.7546, -117.1969]
+  },
+  {
+    "id": "point-loma-sunset-cliffs",
+    "name": "Point Loma & Old Point Loma Lighthouse",
+    "address": "1800 Cabrillo Memorial Dr, San Diego, CA 92106",
+    "neighborhood": "Point Loma, San Diego",
+    "deal": "Historic 1854 lighthouse with panoramic views of San Diego Bay, the Pacific, and on clear days, Mexico. Cabrillo National Monument surrounds it.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [32.6722, -117.2422]
+  },
+  {
+    "id": "griffith-observatory",
+    "name": "Griffith Observatory",
+    "address": "2800 E Observatory Rd, Los Angeles, CA 90027",
+    "neighborhood": "Los Feliz, Los Angeles",
+    "deal": "Free entry to the grounds — iconic observatory in the Santa Monica Mountains with sweeping views of LA and the Hollywood Sign. Crowds but worth it.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [34.1184, -118.3004]
+  },
+  {
+    "id": "the-getty",
+    "name": "The Getty Center",
+    "address": "1200 Getty Center Dr, Los Angeles, CA 90049",
+    "neighborhood": "Brentwood, Los Angeles",
+    "deal": "World-class art museum with stunning architecture and gardens perched on a hill with panoramic views of LA. Free admission (parking fee).",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [34.0780, -118.4741]
+  },
+  {
+    "id": "the-broad",
+    "name": "The Broad",
+    "address": "221 S Grand Ave, Los Angeles, CA 90012",
+    "neighborhood": "Downtown, Los Angeles",
+    "deal": "Contemporary art museum with free general admission (reserve in advance). Jeff Koons, Cindy Sherman, Jean-Michel Basquiat, and Takashi Murakami highlights.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [34.0543, -118.2497]
+  },
+  {
+    "id": "rodeo-drive",
+    "name": "Rodeo Drive",
+    "address": "Rodeo Dr, Beverly Hills, CA 90210",
+    "neighborhood": "Beverly Hills, Los Angeles",
+    "deal": "The world's most famous luxury shopping street. Great for window shopping and people watching even if you're not buying.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [34.0684, -118.3987]
+  },
+  {
+    "id": "santa-monica-venice-beach",
+    "name": "Santa Monica Pier & Venice Beach",
+    "address": "200 Santa Monica Pier, Santa Monica, CA 90401",
+    "neighborhood": "Santa Monica / Venice, Los Angeles",
+    "deal": "Santa Monica Pier has an amusement park with ocean views. Venice Beach Boardwalk is classic LA — street performers, skate park, and Muscle Beach.",
+    "when": "SoCal, Feb 2026",
+    "coordinates": [34.0101, -118.4965]
+  },
+  {
+    "id": "golden-gate-park",
+    "name": "Golden Gate Park",
+    "address": "Golden Gate Park, San Francisco, CA",
+    "neighborhood": "Richmond / Sunset, San Francisco",
+    "deal": "Walk the park end to end — look for the water buffalos! Home to the de Young Museum, Japanese Tea Garden, Conservatory of Flowers, and SF Botanical Garden.",
+    "when": "San Francisco",
+    "coordinates": [37.7694, -122.4862]
+  },
+  {
+    "id": "sutro-baths",
+    "name": "Sutro Baths & Land's End Lookout",
+    "address": "1004 Point Lobos Ave, San Francisco, CA 94121",
+    "neighborhood": "Richmond District, San Francisco",
+    "deal": "Ruins of a Victorian-era public bathhouse dramatically set at the ocean's edge. Land's End Lookout above has sweeping views of the Golden Gate. Ocean Beach fire pits nearby.",
+    "when": "San Francisco",
+    "coordinates": [37.7789, -122.5136]
+  },
+  {
+    "id": "painted-ladies",
+    "name": "Painted Ladies (Alamo Square)",
+    "address": "710 Steiner St, San Francisco, CA 94117",
+    "neighborhood": "Alamo Square, San Francisco",
+    "deal": "The iconic row of Victorian houses with the SF skyline behind them. Best photographed from Alamo Square Park across the street.",
+    "when": "San Francisco",
+    "coordinates": [37.7763, -122.4325]
+  },
+  {
+    "id": "pier-39-fishermans-wharf",
+    "name": "Pier 39 & Fisherman's Wharf",
+    "address": "Beach St & The Embarcadero, San Francisco, CA 94133",
+    "neighborhood": "Fisherman's Wharf, San Francisco",
+    "deal": "Watch the famous sea lions lounge on the docks at Pier 39. Ghirardelli Chocolate nearby. Bistro Boudin for sourdough clam chowder in a bread bowl.",
+    "when": "San Francisco",
+    "coordinates": [37.8087, -122.4098]
+  },
+  {
+    "id": "sausalito",
+    "name": "Sausalito",
+    "address": "Sausalito, CA 94965",
+    "neighborhood": "Sausalito, Marin County",
+    "deal": "Charming waterfront town across the bay from SF. Sausalito Boardwalk, Viña del Mar Park, Bay Model Visitor Center, and Lappert's Ice Cream. Take the ferry from SF for the best arrival.",
+    "when": "San Francisco",
+    "coordinates": [37.8590, -122.4852]
+  },
+  {
+    "id": "palace-of-fine-arts",
+    "name": "Palace of Fine Arts & Lyon Street Steps",
+    "address": "3301 Lyon St, San Francisco, CA 94123",
+    "neighborhood": "Marina District, San Francisco",
+    "deal": "Beautiful rotunda and lagoon left from the 1915 World's Fair. Lyon Street Steps nearby are a great workout with views of the Marina and bay.",
+    "when": "San Francisco",
+    "coordinates": [37.8030, -122.4488]
+  },
+  {
+    "id": "presidio-batteries-to-bluffs",
+    "name": "Batteries to Bluffs Trail & Presidio",
+    "address": "Presidio, San Francisco, CA 94129",
+    "neighborhood": "Presidio, San Francisco",
+    "deal": "Dramatic coastal trail with views of the Golden Gate from below. The Presidio grounds are free to explore with historic military buildings and forest trails.",
+    "when": "San Francisco",
+    "coordinates": [37.7989, -122.4774]
+  },
+  {
+    "id": "twin-peaks",
+    "name": "Twin Peaks",
+    "address": "Twin Peaks Blvd, San Francisco, CA 94131",
+    "neighborhood": "Twin Peaks, San Francisco",
+    "deal": "Best 360° panoramic view of San Francisco. Gets foggy — go on a nice day. Short drive or hike to the summit.",
+    "when": "San Francisco",
+    "coordinates": [37.7527, -122.4477]
+  },
+  {
+    "id": "dolores-park",
+    "name": "Mission Dolores Park",
+    "address": "Dolores St & 19th St, San Francisco, CA 94114",
+    "neighborhood": "Mission District, San Francisco",
+    "deal": "The ultimate SF park scene — great views of downtown, outdoor recreation, and a lively weekend atmosphere. Senor Sisig food truck and Bi-Rite Creamery nearby.",
+    "when": "San Francisco",
+    "coordinates": [37.7596, -122.4269]
+  },
+  {
+    "id": "haight-ashbury",
+    "name": "Haight-Ashbury & Divisadero",
+    "address": "Haight St & Ashbury St, San Francisco, CA 94117",
+    "neighborhood": "Haight-Ashbury, San Francisco",
+    "deal": "Historic epicenter of the 1960s counterculture — now lined with vintage shops, record stores, and Victorian houses. Divisadero has great bars and restaurants.",
+    "when": "San Francisco",
+    "coordinates": [37.7693, -122.4468]
+  },
+  {
+    "id": "north-beach-chinatown",
+    "name": "North Beach & Chinatown",
+    "address": "Columbus Ave, San Francisco, CA 94133",
+    "neighborhood": "North Beach, San Francisco",
+    "deal": "North Beach is SF's Italian neighborhood — Tony's Pizza Napoletana and Golden Boy Pizza for slices. Chinatown is the oldest in North America. AA Bakery and Great Eastern Restaurant are local favorites.",
+    "when": "San Francisco",
+    "coordinates": [37.7999, -122.4078]
+  },
+  {
+    "id": "valencia-mission",
+    "name": "Valencia Street & Mission District",
+    "address": "Valencia St, San Francisco, CA 94110",
+    "neighborhood": "Mission District, San Francisco",
+    "deal": "SF's most vibrant neighborhood for murals, taquerias, and bars. Stay on Mission, Valencia, and 16th. El Farolito for late-night burritos. Marafuku Ramen in Japantown nearby.",
+    "when": "San Francisco",
+    "coordinates": [37.7599, -122.4215]
+  },
+  {
+    "id": "point-reyes-lighthouse",
+    "name": "Point Reyes Lighthouse & Chimney Rock",
+    "address": "Point Reyes National Seashore, CA 94956",
+    "neighborhood": "Point Reyes, Marin County",
+    "deal": "Chimney Rock Trail (1.75 mi) has stunning coastal views with whale and wildlife spotting. Point Reyes Shipwreck and Cypress Tree Tunnel are both nearby must-sees. Bovine Bakery for breakfast.",
+    "when": "San Francisco",
+    "coordinates": [38.1299, -122.9987]
+  },
+  {
+    "id": "bixby-bridge",
+    "name": "Bixby Creek Bridge",
+    "address": "Cabrillo Hwy, Big Sur, CA 93920",
+    "neighborhood": "Big Sur, California",
+    "deal": "One of the most photographed bridges in California — dramatic single-arch span over a coastal canyon with Big Sur cliffs behind it",
+    "when": "San Francisco — Big Sur",
+    "coordinates": [36.3718, -121.9015]
+  },
+  {
+    "id": "mcway-falls",
+    "name": "McWay Falls",
+    "address": "CA-1, Big Sur, CA 93920",
+    "neighborhood": "Big Sur, California",
+    "deal": "One of the only waterfalls in California that drops directly onto a beach. Easy 7-8 min hike from the parking area. Tip: park off the side of the road to avoid the $10 fee.",
+    "when": "San Francisco — Big Sur",
+    "coordinates": [36.1584, -121.6702]
+  },
+  {
+    "id": "pfeiffer-beach",
+    "name": "Pfeiffer Beach",
+    "address": "Pfeiffer Beach, Big Sur, CA 93920",
+    "neighborhood": "Big Sur, California",
+    "deal": "Purple sand on the north side of the beach and a stunning keyhole arch rock formation. One of Big Sur's most unique beaches.",
+    "when": "San Francisco — Big Sur",
+    "coordinates": [36.2444, -121.8173]
+  },
+  {
+    "id": "point-lobos",
+    "name": "Point Lobos State Natural Reserve",
+    "address": "62 CA-1, Carmel-by-the-Sea, CA 93923",
+    "neighborhood": "Carmel, California",
+    "deal": "\"The crown jewel of the California State Park system\" — dramatic coastline with sea otters, seals, and cypress trees. South Shore Trail is excellent.",
+    "when": "San Francisco — Big Sur",
+    "coordinates": [36.5155, -121.9417]
+  },
+  {
+    "id": "carmel-by-the-sea",
+    "name": "Carmel-by-the-Sea",
+    "address": "Carmel-by-the-Sea, CA 93921",
+    "neighborhood": "Carmel, California",
+    "deal": "Fairy-tale village with no street addresses, white-sand beach, and art galleries. Cafe Luna for breakfast, Patisserie Boissiere for sit-down.",
+    "when": "San Francisco — Big Sur",
+    "coordinates": [36.5552, -121.9233]
+  },
+  {
+    "id": "napa-valley",
+    "name": "Napa Valley",
+    "address": "Napa, CA 94558",
+    "neighborhood": "Napa Valley, California",
+    "deal": "Best wineries: Artesa (best views, sculpture garden), Hall Wines (contemporary art gallery feel), V. Sattui (picnic on the grounds), Domaine Carneros (inspired by an 18th-century French château). Gott's Roadside for food.",
+    "when": "San Francisco — Napa",
+    "coordinates": [38.2975, -122.2869]
+  },
+  {
+    "id": "emerald-bay",
+    "name": "Emerald Bay & Vikingholm Castle",
+    "address": "Emerald Bay State Park, South Lake Tahoe, CA 96150",
+    "neighborhood": "South Lake Tahoe, California",
+    "deal": "Jaw-dropping view from Inspiration Point. Eagle Falls cascades nearby. Rubicon Trail leads down to Vikingholm Castle — a 1929 Scandinavian-style mansion on the lake. Keep the parking receipt for other CA state parks.",
+    "when": "San Francisco — Lake Tahoe",
+    "coordinates": [38.9547, -120.1085]
+  },
+  {
+    "id": "sugar-pine-point",
+    "name": "Sugar Pine Point State Park",
+    "address": "7360 CA-89, Tahoma, CA 96142",
+    "neighborhood": "West Shore Lake Tahoe, California",
+    "deal": "Walk around the Hellman-Ehrman Mansion estate, step on the back porch for lake views, walk out the pier, and follow the lakeside path south to the railroad tracks that lead into the water.",
+    "when": "San Francisco — Lake Tahoe",
+    "coordinates": [39.0594, -120.1152]
+  },
+  {
+    "id": "tahoe-city",
+    "name": "Tahoe City & Commons Beach",
+    "address": "Tahoe City, CA 96145",
+    "neighborhood": "North Shore Lake Tahoe, California",
+    "deal": "Stroll Heritage Square and Commons Beach along the lake. See the Lake Tahoe Dam and Fanny Bridge. Watson Log Cabin and Penny Bear are nearby. Olympic Valley & Palisades Tahoe (site of the 1960 Olympics) is a short drive.",
+    "when": "San Francisco — Lake Tahoe",
+    "coordinates": [39.1650, -120.1429]
+  },
+  {
+    "id": "yosemite-tunnel-view",
+    "name": "Yosemite Valley — Tunnel View & Glacier Point",
+    "address": "Yosemite National Park, CA 95389",
+    "neighborhood": "Yosemite National Park, California",
+    "deal": "Tunnel View: stunning first glimpse of Half Dome, El Capitan, and Bridalveil Fall. Glacier Point (1 mi hike): one of the most sweeping vistas in Yosemite — great for stargazing. Taft Point and Sentinel Dome trails are both 2.2 mi with panoramic valley views.",
+    "when": "San Francisco — Yosemite",
+    "coordinates": [37.7161, -119.6792]
+  },
+  {
+    "id": "tuolumne-meadows",
+    "name": "Tuolumne Meadows & Tioga Pass",
+    "address": "Tioga Rd, Yosemite National Park, CA 95389",
+    "neighborhood": "Yosemite National Park, California",
+    "deal": "\"Quiet, relaxing, stunning, and tranquil by the river.\" Lembert Dome Trail (2.8 mi) has panoramic views of the meadows and Cathedral Range. Tioga Pass is the highest highway pass in California. Mono Lake is just beyond.",
+    "when": "San Francisco — Yosemite",
+    "coordinates": [37.8757, -119.3553]
+  },
+  {
+    "id": "mariposa-grove",
+    "name": "Mariposa Grove of Giant Sequoias",
+    "address": "Mariposa Grove Rd, Yosemite National Park, CA 95389",
+    "neighborhood": "Yosemite National Park, California",
+    "deal": "The largest grove of giant sequoias in Yosemite — walk among some of the biggest trees on Earth. Free shuttle from the south entrance.",
+    "when": "San Francisco — Yosemite",
+    "coordinates": [37.5068, -119.6126]
+  },
+  {
+    "id": "general-sherman-tree",
+    "name": "General Sherman Tree & Congress Trail",
+    "address": "Sequoia National Park, CA 93262",
+    "neighborhood": "Sequoia National Park, California",
+    "deal": "General Sherman Tree is the largest tree in the world by volume. Congress Trail (2.7 mi) winds through the Giant Forest sequoia grove. Moro Rock (0.5 mi) gives a 360° view of the Sierra Nevadas.",
+    "when": "San Francisco — Sequoia",
+    "coordinates": [36.5842, -118.7519]
+  },
+  {
+    "id": "pinnacles-np",
+    "name": "Pinnacles National Park",
+    "address": "5000 CA-146, Paicines, CA 95043",
+    "neighborhood": "Central California",
+    "deal": "Balconies Cliffs/Cave Loop (2.4 mi): spectacular views and a talus cave. Moses Spring to Bear Gulch Cave (2.4 mi out-and-back). Condor Gulch Overlook (2 mi) for chances to spot California Condors soaring overhead.",
+    "when": "San Francisco",
+    "coordinates": [36.4906, -121.1825]
+  },
+  {
+    "id": "half-moon-bay",
+    "name": "Mori Point & Half Moon Bay",
+    "address": "Mori Point, Pacifica, CA 94044",
+    "neighborhood": "Peninsula, California",
+    "deal": "Mori Point is a dramatic coastal headland with views up and down the coast — easy 2-mile loop. Half Moon Bay has a scenic beach and state park. Gets foggy — go on a nice day.",
+    "when": "San Francisco",
+    "coordinates": [37.6270, -122.4954]
+  },
+  {
+    "id": "capitola-village",
+    "name": "Capitola Village & Santa Cruz",
+    "address": "Capitola Village, Capitola, CA 95010",
+    "neighborhood": "Capitola / Santa Cruz, California",
+    "deal": "Colorful seaside village with a beach, boutiques, and Soquel Creek running to the ocean. Shark Fin Cove and Lighthouse Field State Beach nearby. Cafe Brasil for food.",
+    "when": "San Francisco",
+    "coordinates": [36.9757, -121.9535]
   }
 ]
