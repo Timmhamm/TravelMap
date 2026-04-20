@@ -1,0 +1,848 @@
+[
+  {
+    "id": "krog-street-market",
+    "name": "Krog Street Market",
+    "address": "99 Krog St NE, Atlanta, GA 30307",
+    "neighborhood": "Inman Park, Atlanta",
+    "deal": "Converted warehouse with food options",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7508, -84.3636]
+  },
+  {
+    "id": "ponce-city-market",
+    "name": "Ponce City Market",
+    "address": "675 Ponce De Leon Ave NE, Atlanta, GA 30308",
+    "neighborhood": "Old Fourth Ward, Atlanta",
+    "deal": "Food, coffee, carnival attractions. 9 Mile Station: beer garden on roof. Skyline Park.",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7719, -84.3659]
+  },
+  {
+    "id": "atlanta-beltline",
+    "name": "Atlanta BeltLine",
+    "address": "Atlanta, GA",
+    "neighborhood": "Atlanta",
+    "deal": "High Line vibes — 22-mile loop of multi-use trails through Atlanta neighborhoods",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7600, -84.3625]
+  },
+  {
+    "id": "mary-macs-tea-room",
+    "name": "Mary Mac's Tea Room",
+    "address": "224 Ponce De Leon Ave NE, Atlanta, GA 30308",
+    "neighborhood": "Midtown, Atlanta",
+    "deal": "\"Best chicken and waffles I've ever had in my life\" –Bryan",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7618, -84.3843]
+  },
+  {
+    "id": "skyview-atlanta",
+    "name": "SkyView Atlanta",
+    "address": "168 Luckie St NW, Atlanta, GA 30303",
+    "neighborhood": "Downtown, Atlanta",
+    "deal": "20-story Ferris wheel with a great view of the skyline. $15",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7601, -84.3897]
+  },
+  {
+    "id": "world-of-coca-cola",
+    "name": "World of Coca-Cola",
+    "address": "121 Baker St NW, Atlanta, GA 30313",
+    "neighborhood": "Downtown, Atlanta",
+    "deal": "Museum dedicated to the history of Coca-Cola. $18",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7632, -84.3927]
+  },
+  {
+    "id": "georgia-aquarium",
+    "name": "Georgia Aquarium",
+    "address": "225 Baker St NW, Atlanta, GA 30313",
+    "neighborhood": "Downtown, Atlanta",
+    "deal": "One of the world's largest aquariums. $37",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7634, -84.3951]
+  },
+  {
+    "id": "centennial-olympic-park",
+    "name": "Centennial Olympic Park",
+    "address": "265 Park Ave W NW, Atlanta, GA 30313",
+    "neighborhood": "Downtown, Atlanta",
+    "deal": "Olympic rings, fountain, and great views of the downtown skyline",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7601, -84.3925]
+  },
+  {
+    "id": "high-museum-of-art",
+    "name": "High Museum of Art",
+    "address": "1280 Peachtree St NE, Atlanta, GA 30309",
+    "neighborhood": "Midtown, Atlanta",
+    "deal": "Atlanta's leading art museum with an impressive permanent collection. $17",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7902, -84.3855]
+  },
+  {
+    "id": "piedmont-park",
+    "name": "Piedmont Park",
+    "address": "1320 Monroe Dr NE, Atlanta, GA 30306",
+    "neighborhood": "Midtown, Atlanta",
+    "deal": "Large urban park with botanical garden, skyline views, and weekend farmers markets",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7851, -84.3735]
+  },
+  {
+    "id": "little-five-points",
+    "name": "Little Five Points",
+    "address": "1174 Euclid Ave NE, Atlanta, GA 30307",
+    "neighborhood": "Inman Park, Atlanta",
+    "deal": "Eclectic neighborhood with breweries, indie food, and funky shops",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7617, -84.3472]
+  },
+  {
+    "id": "chattahoochee-food-works",
+    "name": "Chattahoochee Food Works",
+    "address": "1235 Chattahoochee Ave NW, Atlanta, GA 30318",
+    "neighborhood": "Upper Westside, Atlanta",
+    "deal": "Huge food hall with a wide variety of options",
+    "when": "Atlanta, Nov 2023",
+    "coordinates": [33.7887, -84.4234]
+  },
+  {
+    "id": "chiang-kai-shek-memorial",
+    "name": "Chiang Kai-shek Memorial Hall & Liberty Square",
+    "address": "No. 21, Zhongshan S Rd, Zhongzheng District, Taipei",
+    "neighborhood": "Zhongzheng District, Taipei",
+    "deal": "Changing of the guard every hour on the hour inside the Memorial Hall",
+    "when": "Asia 2024 — Taiwan",
+    "coordinates": [25.0350, 121.5198]
+  },
+  {
+    "id": "longshan-temple",
+    "name": "Longshan Temple",
+    "address": "211 Guangzhou St, Wanhua District, Taipei",
+    "neighborhood": "Wanhua District, Taipei",
+    "deal": "One of Taipei's oldest and most visited temples. Active place of worship with incense and prayer offerings.",
+    "when": "Asia 2024 — Taiwan",
+    "coordinates": [25.0367, 121.4997]
+  },
+  {
+    "id": "jiufen-old-street",
+    "name": "Jiufen Old Street",
+    "address": "Jiufen, Ruifang District, New Taipei City",
+    "neighborhood": "Ruifang District, New Taipei City",
+    "deal": "Narrow hillside alley with food, tea houses, and shops — said to have inspired Spirited Away. Combine with Shifen and Keelung Night Market.",
+    "when": "Asia 2024 — Taiwan",
+    "coordinates": [25.1077, 121.8443]
+  },
+  {
+    "id": "shifen-waterfall",
+    "name": "Shifen Waterfall & Shifen Old Street",
+    "address": "Shifen, Pingxi District, New Taipei City",
+    "neighborhood": "Pingxi District, New Taipei City",
+    "deal": "One of the most scenic waterfalls in Taiwan. \"It's awesome.\" Try the peanut ice cream on the old street.",
+    "when": "Asia 2024 — Taiwan",
+    "coordinates": [25.0460, 121.7862]
+  },
+  {
+    "id": "ningxia-night-market",
+    "name": "Ningxia Night Market",
+    "address": "Ningxia Rd, Datong District, Taipei",
+    "neighborhood": "Datong District, Taipei",
+    "deal": "\"Best food market in Taipei\" — small, local, and packed with great street food. Bib Gourmand: Yuan Huan Pien Oyster Egg Omelette.",
+    "when": "Asia 2024 — Taiwan",
+    "coordinates": [25.0535, 121.5183]
+  },
+  {
+    "id": "taipei-101",
+    "name": "Taipei 101",
+    "address": "No. 7, Section 5, Xinyi Road, Xinyi District, Taipei",
+    "neighborhood": "Xinyi District, Taipei",
+    "deal": "Iconic skyscraper with shopping and dining. Free perfect view from Hotspot 101 (No. 2, Lane 253, Songren Rd). Simple Kaffa nearby — owner won 2016 World Barista Championship.",
+    "when": "Asia 2024 — Taiwan",
+    "coordinates": [25.0338, 121.5645]
+  },
+  {
+    "id": "elephant-mountain",
+    "name": "Elephant Mountain (Xiangshan)",
+    "address": "Xiangshan, Xinyi District, Taipei",
+    "neighborhood": "Xinyi District, Taipei",
+    "deal": "Go at sunset for panoramic views of Taipei with Taipei 101 in the foreground",
+    "when": "Asia 2024 — Taiwan",
+    "coordinates": [25.0271, 121.5762]
+  },
+  {
+    "id": "huashan-1914",
+    "name": "Huashan 1914 Creative Park",
+    "address": "No. 1, Section 1, Bade Road, Zhongzheng District, Taipei",
+    "neighborhood": "Zhongzheng District, Taipei",
+    "deal": "Former tobacco factory converted into a creative hub with exhibitions, pop-up stores, restaurants, and live music",
+    "when": "Asia 2024 — Taiwan",
+    "coordinates": [25.0439, 121.5291]
+  },
+  {
+    "id": "hoan-kiem-lake",
+    "name": "Hoan Kiem Lake & Ngoc Son Temple",
+    "address": "Hoan Kiem District, Hanoi",
+    "neighborhood": "Old Quarter, Hanoi",
+    "deal": "Iconic red Huc Bridge leads to Ngoc Son Temple on the lake. Tran Quoc Pagoda nearby is the oldest pagoda in Hanoi — visit at sunset.",
+    "when": "Asia 2024 — Vietnam",
+    "coordinates": [21.0286, 105.8524]
+  },
+  {
+    "id": "cafe-giang",
+    "name": "Café Giang",
+    "address": "39 Nguyễn Hữu Huân, Lý Thái Tổ, Hoàn Kiếm, Hanoi",
+    "neighborhood": "Old Quarter, Hanoi",
+    "deal": "Origin of Vietnamese Egg Coffee — a must-try Hanoi specialty",
+    "when": "Asia 2024 — Vietnam",
+    "coordinates": [21.0354, 105.8468]
+  },
+  {
+    "id": "temple-of-literature",
+    "name": "Temple of Literature",
+    "address": "58 Quốc Tử Giám, Đống Đa, Hanoi",
+    "neighborhood": "Đống Đa, Hanoi",
+    "deal": "Vietnam's first university, dating to 1070. Beautiful grounds with traditional Vietnamese architecture.",
+    "when": "Asia 2024 — Vietnam",
+    "coordinates": [21.0265, 105.8363]
+  },
+  {
+    "id": "trang-an",
+    "name": "Trang An",
+    "address": "Tràng An, Ninh Bình Province",
+    "neighborhood": "Ninh Binh (Ha Long Bay on land)",
+    "deal": "UNESCO World Heritage Site. Boat ride through caves, temples, and limestone mountains surrounded by rice paddies.",
+    "when": "Asia 2024 — Vietnam",
+    "coordinates": [20.2513, 105.9073]
+  },
+  {
+    "id": "ha-long-bay",
+    "name": "Ha Long Bay",
+    "address": "Ha Long City, Quảng Ninh Province",
+    "neighborhood": "Quảng Ninh Province, Vietnam",
+    "deal": "UNESCO World Heritage Site with emerald waters and towering limestone islands. Toured via Aqua of the Sea overnight cruise.",
+    "when": "Asia 2024 — Vietnam",
+    "coordinates": [20.9101, 107.1839]
+  },
+  {
+    "id": "chen-clan-ancestral-hall",
+    "name": "Chen Clan Ancestral Hall",
+    "address": "中山七路34号, Liwan District, Guangzhou",
+    "neighborhood": "Liwan District, Guangzhou",
+    "deal": "Beautifully ornate ancestral hall with intricate carvings, wood engravings, and ceramic sculptures",
+    "when": "Asia 2024 — China",
+    "coordinates": [23.1236, 113.2558]
+  },
+  {
+    "id": "shamian-island",
+    "name": "Shamian Island",
+    "address": "Shamian, Liwan District, Guangzhou",
+    "neighborhood": "Liwan District, Guangzhou",
+    "deal": "European-style colonial street on a small island in the Pearl River — shaded avenues and old consulate buildings",
+    "when": "Asia 2024 — China",
+    "coordinates": [23.1048, 113.2355]
+  },
+  {
+    "id": "victoria-peak",
+    "name": "Victoria Peak",
+    "address": "Peak Rd, Hong Kong",
+    "neighborhood": "The Peak, Hong Kong",
+    "deal": "Best viewpoint for Hong Kong's skyline — only go if it's not cloudy. Use Octopus card for the tram. Sit inside on the right going up. Peak Galleria has a free observation deck.",
+    "when": "Asia 2024 — Hong Kong",
+    "coordinates": [22.2757, 114.1455]
+  },
+  {
+    "id": "man-mo-temple",
+    "name": "Man Mo Temple",
+    "address": "124-126 Hollywood Rd, Sheung Wan, Hong Kong",
+    "neighborhood": "Sheung Wan, Hong Kong",
+    "deal": "Three temples combined into one, dedicated to the gods of literature and war. Take the Central Mid-Levels Escalator (longest outdoor covered escalator in the world) up from Central Market.",
+    "when": "Asia 2024 — Hong Kong",
+    "coordinates": [22.2838, 114.1498]
+  },
+  {
+    "id": "wong-tai-sin-temple",
+    "name": "Wong Tai Sin Temple",
+    "address": "2 Chuk Yuen Village, Wong Tai Sin, Kowloon",
+    "neighborhood": "Wong Tai Sin, Kowloon",
+    "deal": "\"Place to come for good fortune, have prayers answered!!\" Nearby: Chi Lin Nunnery — largest hand-built wooden building in the world, and Nan Lian Garden (Tang dynasty style).",
+    "when": "Asia 2024 — Hong Kong",
+    "coordinates": [22.3421, 114.1934]
+  },
+  {
+    "id": "tsim-sha-tsui-promenade",
+    "name": "Tsim Sha Tsui Promenade",
+    "address": "Tsim Sha Tsui, Kowloon, Hong Kong",
+    "neighborhood": "Tsim Sha Tsui, Kowloon",
+    "deal": "Watch the Symphony of Lights show over the harbor at night. Star Ferry across the water has great harbor views — sit on the outdoor deck.",
+    "when": "Asia 2024 — Hong Kong",
+    "coordinates": [22.2952, 114.1736]
+  },
+  {
+    "id": "ruins-of-saint-paul",
+    "name": "Ruins of Saint Paul",
+    "address": "Rua de São Paulo, Santo António, Macau",
+    "neighborhood": "Santo António, Macao",
+    "deal": "Striking façade of a 17th-century Catholic church destroyed by fire in the 1800s — Macao's most iconic landmark. Senado Square nearby mixes Chinese and Portuguese architecture.",
+    "when": "Asia 2024 — Macao",
+    "coordinates": [22.1972, 113.5396]
+  },
+  {
+    "id": "lord-stows-bakery",
+    "name": "Lord Stow's Bakery",
+    "address": "1 Rua do Tassara, Coloane Village, Macau",
+    "neighborhood": "Coloane Village, Macao",
+    "deal": "The original creator of Macao's famous egg tarts — a must-visit in the peaceful historic Coloane Village. Also try Fernando's authentic Portuguese restaurant nearby.",
+    "when": "Asia 2024 — Macao",
+    "coordinates": [22.1523, 113.5608]
+  },
+  {
+    "id": "tian-tan-buddha",
+    "name": "Tian Tan Buddha (Big Buddha)",
+    "address": "Ngong Ping, Lantau Island, Hong Kong",
+    "neighborhood": "Ngong Ping, Lantau Island",
+    "deal": "112-foot tall bronze Buddha, 268 steps to the top, took 3 years to build. Take the Ngong Ping Cable Car. Po Lin Monastery and Tai O Fishing Village (stilt houses, pink dolphins) nearby.",
+    "when": "Asia 2024 — Hong Kong",
+    "coordinates": [22.2538, 113.9052]
+  },
+  {
+    "id": "fushimi-inari",
+    "name": "Fushimi Inari Shrine",
+    "address": "68 Fukakusa Yabunouchicho, Fushimi Ward, Kyoto",
+    "neighborhood": "Fushimi Ward, Kyoto",
+    "deal": "Arrive ~7:00 AM for the ~2-hour hike through thousands of iconic vermillion torii gates. Don't miss the bamboo grove. [9.x/10 food nearby]",
+    "when": "Japan 2025",
+    "coordinates": [34.9671, 135.7727]
+  },
+  {
+    "id": "kodaiji-temple",
+    "name": "Kodai-ji Temple & Bamboo Grove",
+    "address": "526 Shimogawaracho, Higashiyama Ward, Kyoto",
+    "neighborhood": "Higashiyama Ward, Kyoto",
+    "deal": "Beautiful Zen temple with a stunning bamboo grove. Walk Sannenzaka and Ninenzaka traditional streets nearby — very crowded but iconic. $7",
+    "when": "Japan 2025",
+    "coordinates": [34.9961, 135.7827]
+  },
+  {
+    "id": "yasaka-pagoda",
+    "name": "Yasaka Pagoda",
+    "address": "388 Masuya-cho, Higashiyama Ward, Kyoto",
+    "neighborhood": "Higashiyama Ward, Kyoto",
+    "deal": "Walk up Yasaka-dori for the iconic view of this five-story pagoda rising above the old Kyoto rooftops. Shirakawa Canal and Hanami-koji Street nearby.",
+    "when": "Japan 2025",
+    "coordinates": [34.9972, 135.7826]
+  },
+  {
+    "id": "dotonbori",
+    "name": "Dotonbori",
+    "address": "Dotonbori, Chuo Ward, Osaka",
+    "neighborhood": "Namba, Osaka",
+    "deal": "The most iconic sight in Osaka — neon-covered buildings and signs along the canal. Charcoal Grilled Yakiniku Senzou [9.7/10] and Maccha House [9.2/10] nearby.",
+    "when": "Japan 2025",
+    "coordinates": [34.6687, 135.5008]
+  },
+  {
+    "id": "nakatanidou",
+    "name": "Nakatanidou",
+    "address": "29 Hashimotocho, Nara",
+    "neighborhood": "Nara City",
+    "deal": "Go before 3 PM to watch them pound mochi by hand — and definitely buy some. Mahoroba Daibutsu Pudding nearby [9.8/10]. Kaiten Sushi Ginza Onodera also nearby [9.7/10].",
+    "when": "Japan 2025",
+    "coordinates": [34.6844, 135.8298]
+  },
+  {
+    "id": "nara-park",
+    "name": "Nara Park",
+    "address": "Nara Park, Nara",
+    "neighborhood": "Nara City",
+    "deal": "Free-roaming deer park in the heart of Nara. Walk off the usual path to find tamer deer. Yoshiki-en Garden is nearby and beautiful.",
+    "when": "Japan 2025",
+    "coordinates": [34.6835, 135.8432]
+  },
+  {
+    "id": "todaiji-temple",
+    "name": "Tōdai-ji Temple",
+    "address": "406-1 Zoshicho, Nara",
+    "neighborhood": "Nara City",
+    "deal": "Houses a 16-meter-high Buddha statue inside the largest wooden building in the world. Climb the Nigatsu-do Hall walkway for views over Nara. $5. Soba-dokoro Kitahara nearby [9.1/10].",
+    "when": "Japan 2025",
+    "coordinates": [34.6884, 135.8396]
+  },
+  {
+    "id": "omicho-market",
+    "name": "Omicho Market",
+    "address": "50 Kamiomicho, Kanazawa",
+    "neighborhood": "Kanazawa City",
+    "deal": "Kanazawa's famous covered market — try the fresh seafood!! Great crabs and sushi.",
+    "when": "Japan 2025",
+    "coordinates": [36.5726, 136.6570]
+  },
+  {
+    "id": "kenrokuen",
+    "name": "Kenroku-en Garden",
+    "address": "1 Kenrokumachi, Kanazawa",
+    "neighborhood": "Kanazawa City",
+    "deal": "One of Japan's top three landscape gardens. Stunning in all seasons — feudal-era garden with ponds and stone lanterns. $4",
+    "when": "Japan 2025",
+    "coordinates": [36.5618, 136.6619]
+  },
+  {
+    "id": "nagamachi-samurai",
+    "name": "Nagamachi Samurai District",
+    "address": "Nagamachi, Kanazawa",
+    "neighborhood": "Kanazawa City",
+    "deal": "Best-preserved samurai district in Japan — earthen walls, narrow lanes, and traditional residences. Gyokusen-immaru Garden and Oyama-jinja Shrine nearby.",
+    "when": "Japan 2025",
+    "coordinates": [36.5566, 136.6562]
+  },
+  {
+    "id": "teamlab-borderless",
+    "name": "teamLab Borderless",
+    "address": "Azabudai Hills Garden Plaza B, 1-2-4 Azabudai, Minato City, Tokyo",
+    "neighborhood": "Azabudai Hills, Tokyo",
+    "deal": "Immersive digital art experience where artworks move freely between rooms. 10–10:30 AM entry. Detour Coffee in Shibuya nearby.",
+    "when": "Japan 2025",
+    "coordinates": [35.6555, 139.7298]
+  },
+  {
+    "id": "shibuya-scramble",
+    "name": "Shibuya Scramble Crossing",
+    "address": "2-2-1 Dogenzaka, Shibuya City, Tokyo",
+    "neighborhood": "Shibuya, Tokyo",
+    "deal": "World's busiest pedestrian crossing. Miyashita Park has a rooftop with cafes. Harajuku Okonomiyaki Yai-yai nearby [9.6/10]. Takeshita Street for trendy Gen Z shopping.",
+    "when": "Japan 2025",
+    "coordinates": [35.6595, 139.7004]
+  },
+  {
+    "id": "tsutaya-daikanyama",
+    "name": "Tsutaya Books Daikanyama",
+    "address": "17-5 Sarugakucho, Shibuya City, Tokyo",
+    "neighborhood": "Daikanyama, Tokyo",
+    "deal": "One of the most beautiful bookstores in the world. Log Road Daikanyama nearby has boutiques and Spring Valley Brewery on converted train tracks. Urara [9.5/10] is a nearby standout restaurant.",
+    "when": "Japan 2025",
+    "coordinates": [35.6490, 139.7030]
+  },
+  {
+    "id": "sensoji-temple",
+    "name": "Sensō-ji Temple",
+    "address": "2-3-1 Asakusa, Taito City, Tokyo",
+    "neighborhood": "Asakusa, Tokyo",
+    "deal": "Tokyo's oldest and most widely visited temple. Kaminarimon gate leads to Nakamise Shopping Street. Kappabashi Kitchen Street nearby for world-class cooking knives.",
+    "when": "Japan 2025",
+    "coordinates": [35.7148, 139.7967]
+  },
+  {
+    "id": "crater-lake",
+    "name": "Crater Lake National Park",
+    "address": "Crater Lake, OR 97604",
+    "neighborhood": "Southern Oregon",
+    "deal": "Rim Village has panoramic views of the deepest lake in the US and Wizard Island. Discovery Point Trail (2.4 mi) follows the rim for stunning views.",
+    "when": "Oregon, May 2024",
+    "coordinates": [42.9446, -122.1090]
+  },
+  {
+    "id": "cannon-beach",
+    "name": "Cannon Beach",
+    "address": "Cannon Beach, OR 97110",
+    "neighborhood": "Oregon Coast",
+    "deal": "Iconic sea stacks including Haystack Rock, Face Rock viewpoint, and tidepools",
+    "when": "Oregon, May 2024",
+    "coordinates": [45.8918, -123.9615]
+  },
+  {
+    "id": "multnomah-falls",
+    "name": "Multnomah Falls",
+    "address": "Historic Columbia River Hwy, Corbett, OR 97019",
+    "neighborhood": "Columbia River Gorge",
+    "deal": "Oregon's most visited natural attraction — a stunning two-tier waterfall dropping 620 feet in the Columbia River Gorge",
+    "when": "Oregon, May 2024",
+    "coordinates": [45.5762, -122.1158]
+  },
+  {
+    "id": "cape-perpetua",
+    "name": "Cape Perpetua",
+    "address": "Cape Perpetua Scenic Area, Yachats, OR 97498",
+    "neighborhood": "Central Oregon Coast",
+    "deal": "Devil's Churn and Thor's Well — dramatic volcanic coastline with sea spray and blowholes that swallow and shoot water",
+    "when": "Oregon, May 2024",
+    "coordinates": [44.2813, -124.1090]
+  },
+  {
+    "id": "silver-falls",
+    "name": "Silver Falls State Park",
+    "address": "20024 Silver Falls Hwy SE, Sublimity, OR 97385",
+    "neighborhood": "Willamette Valley",
+    "deal": "Trail of Ten Falls hike passes South Falls and Lower South Falls — you can walk behind the waterfalls",
+    "when": "Oregon, May 2024",
+    "coordinates": [44.8777, -122.6546]
+  },
+  {
+    "id": "bandon-beach",
+    "name": "Bandon Beach",
+    "address": "Bandon, OR 97411",
+    "neighborhood": "Southern Oregon Coast",
+    "deal": "Dramatic sea stacks, Face Rock viewpoint, and accessible tidepools. Cape Arago / Shore Acres / Simpson Reef nearby for sea lions.",
+    "when": "Oregon, May 2024",
+    "coordinates": [43.1215, -124.4201]
+  },
+  {
+    "id": "miradouro-senhora-monte",
+    "name": "Miradouro da Senhora do Monte",
+    "address": "Calçada do Monte, 1170-250 Lisboa",
+    "neighborhood": "Graça, Lisbon",
+    "deal": "Best view of Lisbon — small romantic hilltop park. [3 recommendations]",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.7197, -9.1321]
+  },
+  {
+    "id": "castelo-sao-jorge",
+    "name": "Castelo de São Jorge",
+    "address": "R. de Santa Cruz do Castelo, 1100-129 Lisboa",
+    "neighborhood": "Alfama, Lisbon",
+    "deal": "Moorish castle with sweeping views over the city and the Tagus River. 7.50€",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.7139, -9.1335]
+  },
+  {
+    "id": "jeronimos-monastery",
+    "name": "Jerónimos Monastery",
+    "address": "Praça do Império, 1400-206 Lisboa",
+    "neighborhood": "Belém, Lisbon",
+    "deal": "UNESCO World Heritage Site — stunning Gothic Manueline-style monastery with intricate stone carvings. [4 recommendations] 12€",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.6978, -9.2066]
+  },
+  {
+    "id": "belem-tower",
+    "name": "Belém Tower",
+    "address": "Av. Brasília, 1400-038 Lisboa",
+    "neighborhood": "Belém, Lisbon",
+    "deal": "UNESCO World Heritage Site and symbol of Lisbon. Don't bother going inside — not worth it. [5 recommendations] 8.50€",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.6916, -9.2157]
+  },
+  {
+    "id": "pasteis-de-belem",
+    "name": "Pastéis de Belém",
+    "address": "R. de Belém 84-92, 1300-085 Lisboa",
+    "neighborhood": "Belém, Lisbon",
+    "deal": "The original pastel de nata bakery since 1837 — the only place with the secret recipe. [3 recommendations]",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.6977, -9.2051]
+  },
+  {
+    "id": "timeout-market-lisbon",
+    "name": "Time Out Market",
+    "address": "Av. 24 de Julho 49, 1200-479 Lisboa",
+    "neighborhood": "Cais do Sodré, Lisbon",
+    "deal": "Excellent indoor food market featuring the best chefs and restaurants in Lisbon under one roof",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.7073, -9.1462]
+  },
+  {
+    "id": "palace-of-pena",
+    "name": "National Palace of Pena",
+    "address": "Estrada da Pena, 2710-609 Sintra",
+    "neighborhood": "Sintra",
+    "deal": "Fairytale Moorish-revival castle painted in vivid yellow and red atop the Sintra mountains. [5 recommendations] 17€",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.7877, -9.3876]
+  },
+  {
+    "id": "quinta-da-regaleira",
+    "name": "Quinta da Regaleira",
+    "address": "R. Barbosa du Bocage 5, 2710-567 Sintra",
+    "neighborhood": "Sintra",
+    "deal": "UNESCO World Heritage gothic mansion with mysterious initiation wells, romantic chapels, and extraordinary stonework. [5 recommendations] 12€",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.7954, -9.3939]
+  },
+  {
+    "id": "cabo-da-roca",
+    "name": "Cabo da Roca",
+    "address": "2705-001 Colares",
+    "neighborhood": "Sintra-Cascais Natural Park",
+    "deal": "Westernmost point of continental Europe — dramatic Atlantic cliffs and one of the best views in Europe",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [38.7838, -9.5006]
+  },
+  {
+    "id": "torre-dos-clerigos",
+    "name": "Torre dos Clérigos",
+    "address": "R. de São Filipe de Nery, 4050-546 Porto",
+    "neighborhood": "Porto City Centre",
+    "deal": "Iconic Baroque bell tower built in the mid-1700s — one of Porto's most emblematic monuments. Church free, Tower 6€. [5 recommendations]",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [41.1454, -8.6139]
+  },
+  {
+    "id": "luis-i-bridge",
+    "name": "Ponte Luís I",
+    "address": "Ponte Luís I, Porto",
+    "neighborhood": "Ribeira, Porto",
+    "deal": "Double-deck iron bridge over the Douro River linking Porto and Vila Nova de Gaia. Walk the upper deck for views. Cross to find wine cellars in Gaia. [5 recommendations]",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [41.1399, -8.6099]
+  },
+  {
+    "id": "cais-da-ribeira",
+    "name": "Cais de Ribeira",
+    "address": "Cais da Ribeira, 4050-509 Porto",
+    "neighborhood": "Ribeira, Porto",
+    "deal": "Colorful medieval riverside district — very touristy, great for photos but avoid eating here. Conga (Portuguese sandwiches) and Half Rabbit are better nearby options.",
+    "when": "Portugal, Feb 2024",
+    "coordinates": [41.1413, -8.6115]
+  },
+  {
+    "id": "mount-rushmore",
+    "name": "Mount Rushmore",
+    "address": "13000 SD-244, Keystone, SD 57751",
+    "neighborhood": "Black Hills, South Dakota",
+    "deal": "60-foot presidential faces carved into granite in the Black Hills. Best lighting in the morning.",
+    "when": "South Dakota, Apr 2024",
+    "coordinates": [43.8791, -103.4591]
+  },
+  {
+    "id": "wind-cave-np",
+    "name": "Wind Cave National Park",
+    "address": "26611 US-385, Hot Springs, SD 57747",
+    "neighborhood": "Black Hills, South Dakota",
+    "deal": "One of only two genetically pure bison herds in the country! Garden of Eden cave tour. Lookout Point Loop (2.2 mi) is prime for bison, pronghorn, and elk sightings.",
+    "when": "South Dakota, Apr 2024",
+    "coordinates": [43.5572, -103.4786]
+  },
+  {
+    "id": "custer-state-park",
+    "name": "Custer State Park",
+    "address": "13329 US-16A, Custer, SD 57730",
+    "neighborhood": "Black Hills, South Dakota",
+    "deal": "18-mile Wildlife Loop to see bison, pronghorn, and wild burros. Drive Needles Highway to Cathedral Spires Trail. Sylvan Lake is gorgeous.",
+    "when": "South Dakota, Apr 2024",
+    "coordinates": [43.6935, -103.5001]
+  },
+  {
+    "id": "black-elk-peak",
+    "name": "Black Elk Peak Trail",
+    "address": "Sylvan Lake Trailhead, Custer State Park, SD",
+    "neighborhood": "Black Hills, South Dakota",
+    "deal": "Highest point east of the Rockies. 7.1-mile loop — go up Trail 9, down Trail 4. Harney Peak Lookout tower at the summit with sweeping views.",
+    "when": "South Dakota, Apr 2024",
+    "coordinates": [43.8658, -103.5329]
+  },
+  {
+    "id": "badlands-np",
+    "name": "Badlands National Park",
+    "address": "25216 Ben Reifel Rd, Interior, SD 57750",
+    "neighborhood": "South Dakota Badlands",
+    "deal": "Notch Trail (1.3 mi) is the best trail in the park. Drive the Badlands Loop Road for overlooks — Pinnacles Overlook at sunset is stunning. Turn onto Sage Creek Rim Road and Roberts Prairie Dog Town for wildlife.",
+    "when": "South Dakota, Apr 2024",
+    "coordinates": [43.8554, -102.3397]
+  },
+  {
+    "id": "lady-bird-lake",
+    "name": "Lady Bird Lake",
+    "address": "Lady Bird Lake, Austin, TX",
+    "neighborhood": "Downtown, Austin",
+    "deal": "10-mile hike/bike trail that loops the lake. Austin Rowing Club rents stand-up paddleboards and kayaks by the hour.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [30.2517, -97.7241]
+  },
+  {
+    "id": "texas-capitol",
+    "name": "Texas State Capitol",
+    "address": "1100 Congress Ave, Austin, TX 78701",
+    "neighborhood": "Downtown, Austin",
+    "deal": "Impressive state capitol building taller than the US Capitol. Free tours available.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [30.2747, -97.7404]
+  },
+  {
+    "id": "south-congress",
+    "name": "South Congress Avenue",
+    "address": "South Congress Ave, Austin, TX",
+    "neighborhood": "SoCo, Austin",
+    "deal": "Austin's most charming strip for shopping and dining — vintage shops, food trucks, and local boutiques. The Continental Club / Guero's Oak Garden for live music.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [30.2522, -97.7524]
+  },
+  {
+    "id": "rainey-street",
+    "name": "Rainey Street",
+    "address": "Rainey St, Austin, TX 78701",
+    "neighborhood": "Downtown, Austin",
+    "deal": "Converted bungalows turned into lively bars and restaurants — Austin's most fun nightlife street",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [30.2570, -97.7397]
+  },
+  {
+    "id": "klyde-warren-park",
+    "name": "Klyde Warren Park",
+    "address": "2012 Woodall Rodgers Fwy, Dallas, TX 75201",
+    "neighborhood": "Downtown, Dallas",
+    "deal": "Urban park built over a freeway connecting downtown Dallas to Uptown. Food trucks, lawn games, and free programming.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [32.7880, -96.8021]
+  },
+  {
+    "id": "valley-of-fire",
+    "name": "Valley of Fire State Park",
+    "address": "29450 Valley of Fire Hwy, Overton, NV 89040",
+    "neighborhood": "Nevada",
+    "deal": "Seven Wonders Loop: park at Fire Wave west lot, go clockwise to hit Fire Wave then Pink Canyon. White Domes Trail has a slot canyon. Download AllTrails before going.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [36.4644, -114.5108]
+  },
+  {
+    "id": "horseshoe-bend",
+    "name": "Horseshoe Bend",
+    "address": "Horseshoe Bend Rd, Page, AZ 86040",
+    "neighborhood": "Page, Arizona",
+    "deal": "Iconic 270° meander of the Colorado River viewed from a cliff edge. Short 1.5-mile round trip walk from the parking lot.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [36.8791, -111.5100]
+  },
+  {
+    "id": "antelope-canyon",
+    "name": "Lower Antelope Canyon",
+    "address": "KE Tours, Page, AZ 86040",
+    "neighborhood": "Page, Arizona",
+    "deal": "Stunning slot canyon carved by water erosion with dramatic light beams. Ken's Tours Lower Antelope Canyon. Book in advance — 5:00 PM tour.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [36.8619, -111.3742]
+  },
+  {
+    "id": "grand-canyon",
+    "name": "Grand Canyon South Rim",
+    "address": "Grand Canyon Village, AZ 86023",
+    "neighborhood": "Grand Canyon National Park, Arizona",
+    "deal": "Desert View Watchtower for sunset. South Kaibab Trail to Ooh Aah Point. Mather Point has two great overlooks. Bright Angel Trail: turn around at Mile-and-a-Half Resthouse.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [36.0544, -112.1401]
+  },
+  {
+    "id": "las-vegas-strip",
+    "name": "The Las Vegas Strip",
+    "address": "Las Vegas Blvd, Las Vegas, NV 89109",
+    "neighborhood": "Las Vegas, Nevada",
+    "deal": "Bellagio, Aria, and Venetian are the highlights. Shang Artisan Noodle and Din Tai Fung for food.",
+    "when": "TX / AZ / NV, May 2024",
+    "coordinates": [36.1126, -115.1767]
+  },
+  {
+    "id": "degraves-street",
+    "name": "Degraves Street",
+    "address": "Degraves St, Melbourne VIC 3000",
+    "neighborhood": "CBD, Melbourne",
+    "deal": "Melbourne's most iconic laneway — lined with cozy cafes and espresso bars. The epitome of Melbourne's famous coffee culture.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-37.8157, 144.9669]
+  },
+  {
+    "id": "st-kilda-beach",
+    "name": "St Kilda Beach",
+    "address": "St Kilda VIC 3182",
+    "neighborhood": "St Kilda, Melbourne",
+    "deal": "Iconic Melbourne beach with Acland Street cafes and Jacka Blvd for sunset. Little penguins nest under the pier at dusk.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-37.8676, 144.9796]
+  },
+  {
+    "id": "royal-botanic-gardens-melbourne",
+    "name": "Royal Botanic Gardens Melbourne",
+    "address": "Birdwood Ave, Melbourne VIC 3004",
+    "neighborhood": "South Yarra, Melbourne",
+    "deal": "Beautiful 100-acre gardens on the Yarra River — one of the world's finest botanic gardens. Free entry.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-37.8304, 144.9798]
+  },
+  {
+    "id": "queen-victoria-market",
+    "name": "Queen Victoria Market",
+    "address": "Queen St, Melbourne VIC 3000",
+    "neighborhood": "CBD, Melbourne",
+    "deal": "Melbourne's largest open-air market open since 1878 — fresh produce, street food, and unique goods.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-37.8071, 144.9573]
+  },
+  {
+    "id": "brighton-beach",
+    "name": "Brighton Beach",
+    "address": "Brighton Beach, Brighton VIC 3186",
+    "neighborhood": "Brighton, Melbourne",
+    "deal": "Famous for 82 colorful Victorian-era bathing boxes lined up along the beach — one of Melbourne's most photogenic spots",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-37.9152, 145.0013]
+  },
+  {
+    "id": "great-barrier-reef",
+    "name": "Great Barrier Reef",
+    "address": "Cairns, QLD 4870",
+    "neighborhood": "Cairns, Queensland",
+    "deal": "Outer Great Barrier Reef full-day tour from Cairns. World's largest coral reef system and UNESCO World Heritage Site.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-16.9186, 145.7781]
+  },
+  {
+    "id": "mossman-gorge",
+    "name": "Mossman Gorge",
+    "address": "Mossman Gorge, QLD 4873",
+    "neighborhood": "Daintree Rainforest, Queensland",
+    "deal": "River gorge carved through granite boulders, bordered by ancient Daintree rainforest. Rainforest circuit trail winds through the gorge.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-16.4744, 145.3567]
+  },
+  {
+    "id": "port-douglas",
+    "name": "Port Douglas",
+    "address": "Port Douglas, QLD 4877",
+    "neighborhood": "Far North Queensland",
+    "deal": "Rex Smeal Park, Trinity Bay Lookout hike, and the Sugar Wharf. Perfect base for Great Barrier Reef and Daintree Rainforest day trips.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-16.4838, 145.4674]
+  },
+  {
+    "id": "twelve-apostles",
+    "name": "Twelve Apostles",
+    "address": "Great Ocean Road, Port Campbell VIC 3269",
+    "neighborhood": "Great Ocean Road, Victoria",
+    "deal": "Iconic limestone sea stacks rising from the Southern Ocean. Start at Gibson Steps to get down to the beach. Sunrise and sunset are best.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-38.6625, 143.1046]
+  },
+  {
+    "id": "cape-otway",
+    "name": "Cape Otway Lightstation",
+    "address": "Lighthouse Rd, Cape Otway VIC 3233",
+    "neighborhood": "Great Ocean Road, Victoria",
+    "deal": "Australia's oldest surviving lighthouse. Maits Rest Rainforest Walk nearby. Look up into the gum trees to spot koalas!",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-38.8567, 143.5128]
+  },
+  {
+    "id": "kennett-river",
+    "name": "Kennett River",
+    "address": "Kennett River VIC 3234",
+    "neighborhood": "Great Ocean Road, Victoria",
+    "deal": "Best spot on the Great Ocean Road to see wild koalas in their natural habitat — look up into the gum trees on Grey River Road. Apollo Bay Bakery (scallop pies) nearby.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-38.5919, 143.7372]
+  },
+  {
+    "id": "hanging-rock",
+    "name": "Hanging Rock",
+    "address": "South Rock Rd, Woodend VIC 3442",
+    "neighborhood": "Macedon Ranges, Victoria",
+    "deal": "Volcanic rock formation over 6 million years old — 30-minute walk to the peak with sweeping views. Trentham Falls (Victoria's longest single-drop waterfall) nearby.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-37.2856, 144.5369]
+  },
+  {
+    "id": "phillip-island-penguin-parade",
+    "name": "Penguin Parade — Phillip Island",
+    "address": "1019 Ventnor Rd, Summerlands VIC 3922",
+    "neighborhood": "Phillip Island, Victoria",
+    "deal": "Watch hundreds of Little Penguins waddle ashore at sunset — the world's largest little penguin colony. Book tickets in advance.",
+    "when": "Australia, Feb 2023",
+    "coordinates": [-38.5137, 145.3684]
+  }
+]
