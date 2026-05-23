@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "redondo-beach",
+    "name": "Redondo Beach",
+    "address": "Redondo Beach, CA 90277",
+    "neighborhood": "Redondo Beach, California",
+    "deal": "Laid-back South Bay beach city with a lively pier, seafood restaurants, and the Seaside Lagoon. Great surf, bike path along the strand, and a vibrant boardwalk.",
+    "when": "SoCal",
+    "coordinates": [33.8492, -118.3884]
+  },
+  {
     "id": "la-county-arboretum",
     "name": "Los Angeles County Arboretum & Botanic Garden",
     "address": "301 N Baldwin Ave, Arcadia, CA 91007",
