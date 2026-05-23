@@ -1951,6 +1951,33 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "bishop-california",
+    "name": "Bishop",
+    "address": "Bishop, CA 93514",
+    "neighborhood": "Eastern Sierra, California",
+    "deal": "Gateway town to the Eastern Sierra — surrounded by world-class rock climbing, fishing, and hiking. Known for the Buttermilk boulders, Owens River, and stunning views of the White Mountains.",
+    "when": "California",
+    "coordinates": [37.3635, -118.3953]
+  },
+  {
+    "id": "convict-lake",
+    "name": "Convict Lake",
+    "address": "Convict Lake Rd, Mammoth Lakes, CA 93546",
+    "neighborhood": "Mammoth Lakes, California",
+    "deal": "Stunning alpine lake in the Eastern Sierra with crystal-clear water and dramatic peaks rising above. Easy loop trail around the lake with breathtaking scenery.",
+    "when": "California",
+    "coordinates": [37.5897, -118.8601]
+  },
+  {
+    "id": "dodger-stadium",
+    "name": "Dodger Stadium",
+    "address": "1000 Vin Scully Ave, Los Angeles, CA 90012",
+    "neighborhood": "Chavez Ravine, Los Angeles",
+    "deal": "Home of the LA Dodgers since 1962 — one of the most iconic ballparks in baseball, with stunning views of the San Gabriel Mountains and downtown skyline.",
+    "when": "SoCal",
+    "coordinates": [34.0739, -118.2400]
+  },
+  {
     "id": "redondo-beach",
     "name": "Redondo Beach",
     "address": "Redondo Beach, CA 90277",
