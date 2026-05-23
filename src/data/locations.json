@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "fishermans-wharf-sf",
+    "name": "Fisherman's Wharf",
+    "address": "Fisherman's Wharf, San Francisco, CA 94133",
+    "neighborhood": "Fisherman's Wharf, San Francisco",
+    "deal": "San Francisco's famous waterfront district with fresh Dungeness crab, clam chowder in sourdough bowls, sea lions at Pier 39, and views of Alcatraz.",
+    "when": "San Francisco",
+    "coordinates": [37.8080, -122.4177]
+  },
+  {
     "id": "tunnel-view-yosemite",
     "name": "Tunnel View",
     "address": "Tunnel View, Yosemite Valley, CA 95389",
