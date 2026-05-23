@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "tijuana-mexico",
+    "name": "Tijuana",
+    "address": "Tijuana, Baja California, Mexico",
+    "neighborhood": "Tijuana, Mexico",
+    "deal": "Vibrant border city just south of San Diego — known for Avenida Revolución, the craft beer scene, incredible tacos and seafood, and the buzzing Zona Gastronómica on Calle Sánchez Taboada.",
+    "when": "SoCal",
+    "coordinates": [32.5149, -117.0382]
+  },
+  {
     "id": "liberty-station-san-diego",
     "name": "Liberty Station",
     "address": "2640 Historic Decatur Rd, San Diego, CA 92106",
