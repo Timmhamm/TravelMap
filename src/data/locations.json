@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "anthem-dc",
+    "name": "The Anthem",
+    "address": "901 Wharf St SW, Washington, DC 20024",
+    "neighborhood": "The Wharf, Washington, D.C.",
+    "deal": "Premier 6,000-capacity concert venue at The Wharf on the Southwest waterfront. One of D.C.'s best live music spots with excellent sound and sightlines.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8773, -77.0243]
+  },
+  {
     "id": "lincoln-memorial",
     "name": "Lincoln Memorial",
     "address": "2 Lincoln Memorial Cir NW, Washington, DC 20037",
