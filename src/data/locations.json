@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "tunnel-view-yosemite",
+    "name": "Tunnel View",
+    "address": "Tunnel View, Yosemite Valley, CA 95389",
+    "neighborhood": "Yosemite National Park, California",
+    "deal": "Yosemite's most iconic viewpoint — the classic panorama of El Capitan, Half Dome, and Bridalveil Fall framed by the valley walls. Located at the east end of the Wawona Tunnel.",
+    "when": "Yosemite",
+    "coordinates": [37.7160, -119.6769]
+  },
+  {
     "id": "el-capitan-yosemite",
     "name": "El Capitan",
     "address": "Yosemite Valley, Yosemite National Park, CA 95389",
