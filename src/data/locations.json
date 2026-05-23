@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "pamelas-pg-diner-pittsburgh",
+    "name": "Pamela's P&G Diner",
+    "address": "60 21st St, Pittsburgh, PA 15222",
+    "neighborhood": "Strip District, Pittsburgh",
+    "deal": "Pittsburgh institution famous for its paper-thin, lacy-edged crepe-style hotcakes. A beloved weekend breakfast spot — cash only, expect a line, worth every minute.",
+    "when": "Pittsburgh",
+    "coordinates": [40.4472, -79.9825]
+  },
+  {
     "id": "cloud-gate-chicago",
     "name": "Cloud Gate (The Bean)",
     "address": "201 E Randolph St, Chicago, IL 60602",
