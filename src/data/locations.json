@@ -1951,6 +1951,33 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "hsi-lai-temple",
+    "name": "Hsi Lai Temple",
+    "address": "3456 S Glenmark Dr, Hacienda Heights, CA 91745",
+    "neighborhood": "Hacienda Heights, California",
+    "deal": "One of the largest Buddhist temples in the Western Hemisphere — a stunning complex of traditional Chinese architecture, gardens, and shrines. Free to visit, serene and beautiful.",
+    "when": "SoCal",
+    "coordinates": [33.9997, -117.9617]
+  },
+  {
+    "id": "hollywood-sign",
+    "name": "Hollywood Sign",
+    "address": "Hollywood Sign, Los Angeles, CA 90068",
+    "neighborhood": "Hollywood Hills, Los Angeles",
+    "deal": "LA's most iconic landmark — the 45-foot letters stretch 350 feet across Mount Lee. Best viewed from the Griffith Observatory or hike up to the sign via Brush Canyon Trail.",
+    "when": "SoCal",
+    "coordinates": [34.1341, -118.3215]
+  },
+  {
+    "id": "san-clemente-pier",
+    "name": "San Clemente Pier",
+    "address": "611 Avenida Victoria, San Clemente, CA 92672",
+    "neighborhood": "San Clemente, California",
+    "deal": "Classic Southern California pier in a charming Spanish-style beach town. Great surf break below, seafood restaurants, and beautiful sunsets over the Pacific.",
+    "when": "SoCal",
+    "coordinates": [33.4133, -117.6183]
+  },
+  {
     "id": "bishop-california",
     "name": "Bishop",
     "address": "Bishop, CA 93514",
