@@ -1699,6 +1699,15 @@
     "coordinates": [43.7731, 11.2560]
   },
   {
+    "id": "galleria-accademia-firenze",
+    "name": "Galleria dell'Accademia",
+    "address": "Via Ricasoli, 60, 50122 Firenze FI, Italy",
+    "neighborhood": "Centro Storico, Florence",
+    "deal": "Home to Michelangelo's original David — one of the most famous sculptures in the world. Book tickets well in advance to skip the long queues.",
+    "when": "Italy — Florence",
+    "coordinates": [43.7767, 11.2587]
+  },
+  {
     "id": "leaning-tower-of-pisa",
     "name": "Leaning Tower of Pisa",
     "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
