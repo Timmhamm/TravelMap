@@ -1699,6 +1699,15 @@
     "coordinates": [43.7731, 11.2560]
   },
   {
+    "id": "washington-memorial-lugano",
+    "name": "Washington Memorial",
+    "address": "Parco Civico, 6900 Lugano, Switzerland",
+    "neighborhood": "Lugano, Switzerland",
+    "deal": "A statue of George Washington donated to the city of Lugano in 1859 — a replica of Houdon's famous work, set in the beautiful lakeside Parco Civico with views over Lake Lugano.",
+    "when": "Italy — Lugano",
+    "coordinates": [46.0037, 8.9511]
+  },
+  {
     "id": "parco-della-montagnola",
     "name": "Parco della Montagnola",
     "address": "Via Irnerio, 40126 Bologna BO, Italy",
