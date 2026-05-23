@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "short-pump-virginia",
+    "name": "Short Pump",
+    "address": "Short Pump, VA 23233",
+    "neighborhood": "Short Pump, Virginia",
+    "deal": "",
+    "when": "Virginia",
+    "coordinates": [37.6504, -77.6197]
+  },
+  {
     "id": "conshohocken-pa",
     "name": "Conshohocken",
     "address": "Conshohocken, PA 19428",
