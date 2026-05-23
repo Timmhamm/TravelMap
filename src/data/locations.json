@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "devils-backbone-basecamp",
+    "name": "Devil's Backbone Basecamp Brewpub",
+    "address": "200 Mosbys Run, Roseland, VA 22967",
+    "neighborhood": "Roseland, Virginia",
+    "deal": "Acclaimed craft brewery in the Blue Ridge Mountains with an outdoor basecamp, live music, and award-winning beers. Great stop along the Parkway.",
+    "when": "Virginia",
+    "coordinates": [37.8171, -78.9580]
+  },
+  {
     "id": "great-falls-park-va",
     "name": "Great Falls Park",
     "address": "9200 Old Dominion Dr, McLean, VA 22102",
