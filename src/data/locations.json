@@ -1951,6 +1951,33 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "washington-monument-dc",
+    "name": "Washington Monument",
+    "address": "2 15th St NW, Washington, DC 20024",
+    "neighborhood": "National Mall, Washington, D.C.",
+    "deal": "Iconic 169m obelisk honoring George Washington, the tallest stone structure in the world when completed in 1884. Free timed-entry passes required to ride to the top.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8895, -77.0353]
+  },
+  {
+    "id": "white-house",
+    "name": "White House",
+    "address": "1600 Pennsylvania Ave NW, Washington, DC 20500",
+    "neighborhood": "Downtown, Washington, D.C.",
+    "deal": "Official residence and workplace of the U.S. President since 1800. View from Lafayette Square or Pennsylvania Avenue — public tours available via congressional request.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8977, -77.0365]
+  },
+  {
+    "id": "us-capitol",
+    "name": "U.S. Capitol",
+    "address": "East Capitol St NE & First St SE, Washington, DC 20004",
+    "neighborhood": "Capitol Hill, Washington, D.C.",
+    "deal": "Seat of the U.S. Congress, completed in 1800 and topped by its iconic cast-iron dome. Free tours available through your congressional representative's office.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8897, -77.0089]
+  },
+  {
     "id": "union-station-dc",
     "name": "Union Station",
     "address": "50 Massachusetts Ave NE, Washington, DC 20002",
