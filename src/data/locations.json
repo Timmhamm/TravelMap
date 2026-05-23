@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "liberty-station-san-diego",
+    "name": "Liberty Station",
+    "address": "2640 Historic Decatur Rd, San Diego, CA 92106",
+    "neighborhood": "Point Loma, San Diego",
+    "deal": "Vibrant arts, dining, and shopping hub built on the former Naval Training Center. Great restaurants, breweries, galleries, and the NTC Promenade along the bay.",
+    "when": "SoCal",
+    "coordinates": [32.7367, -117.2108]
+  },
+  {
     "id": "sunset-cliffs-san-diego",
     "name": "Sunset Cliffs Natural Park",
     "address": "Sunset Cliffs Blvd, San Diego, CA 92107",
