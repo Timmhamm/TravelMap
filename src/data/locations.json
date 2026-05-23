@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "filbert-stockton-sf",
+    "name": "Filbert St & Stockton Street",
+    "address": "Filbert St & Stockton St, San Francisco, CA 94133",
+    "neighborhood": "North Beach, San Francisco",
+    "deal": "",
+    "when": "San Francisco",
+    "coordinates": [37.8006, -122.4109]
+  },
+  {
     "id": "angel-island-sf",
     "name": "Angel Island State Park",
     "address": "Angel Island, CA 94920",
