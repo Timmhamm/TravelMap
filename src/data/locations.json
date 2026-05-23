@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "conshohocken-pa",
+    "name": "Conshohocken",
+    "address": "Conshohocken, PA 19428",
+    "neighborhood": "Conshohocken, Pennsylvania",
+    "deal": "",
+    "when": "Philadelphia",
+    "coordinates": [40.0787, -75.3013]
+  },
+  {
     "id": "lincoln-financial-field",
     "name": "Lincoln Financial Field",
     "address": "1 Lincoln Financial Field Way, Philadelphia, PA 19148",
