@@ -1690,6 +1690,24 @@
     "coordinates": [45.4853, 12.4172]
   },
   {
+    "id": "florence-duomo",
+    "name": "Florence Cathedral (Duomo)",
+    "address": "Piazza del Duomo, 50122 Firenze FI, Italy",
+    "neighborhood": "Centro Storico, Florence",
+    "deal": "Brunelleschi's iconic red-tiled dome dominates the Florence skyline. Climb to the top of the dome or the Giotto's Campanile for panoramic views. The Baptistery's Gates of Paradise are right outside.",
+    "when": "Italy — Florence",
+    "coordinates": [43.7731, 11.2560]
+  },
+  {
+    "id": "leaning-tower-of-pisa",
+    "name": "Leaning Tower of Pisa",
+    "address": "Piazza del Duomo, 56126 Pisa PI, Italy",
+    "neighborhood": "Piazza dei Miracoli, Pisa",
+    "deal": "The famous 12th-century campanile tilted at a 4° angle — climb the 294 steps to the top for views across Pisa. The surrounding Piazza dei Miracoli (Field of Miracles) also has the Pisa Cathedral and Baptistery.",
+    "when": "Italy — Pisa",
+    "coordinates": [43.7230, 10.3966]
+  },
+  {
     "id": "coffee-an-donut-shop",
     "name": "Coffee An' Donut Shop",
     "address": "343 Post Rd E, Westport, CT 06880",
