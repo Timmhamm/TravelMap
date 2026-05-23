@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "nationals-park",
+    "name": "Nationals Park",
+    "address": "1500 South Capitol St SE, Washington, DC 20003",
+    "neighborhood": "Navy Yard, Washington, D.C.",
+    "deal": "Home of the Washington Nationals, opened in 2008 on the Anacostia waterfront. Great views of the Capitol from the upper deck.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8730, -77.0074]
+  },
+  {
     "id": "anthem-dc",
     "name": "The Anthem",
     "address": "901 Wharf St SW, Washington, DC 20024",
