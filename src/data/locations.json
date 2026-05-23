@@ -1699,6 +1699,15 @@
     "coordinates": [43.7731, 11.2560]
   },
   {
+    "id": "bologna-civic-archaeological-museum",
+    "name": "Civic Archaeological Museum of Bologna",
+    "address": "Via dell'Archiginnasio, 2, 40124 Bologna BO, Italy",
+    "neighborhood": "Centro Storico, Bologna",
+    "deal": "One of Italy's most important archaeological museums, housing Egyptian, Greek, Etruscan, and Roman collections. Located in the heart of Bologna next to the Archiginnasio palace.",
+    "when": "Italy — Bologna",
+    "coordinates": [44.4933, 11.3436]
+  },
+  {
     "id": "galleria-degli-uffizi",
     "name": "Galleria degli Uffizi",
     "address": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
