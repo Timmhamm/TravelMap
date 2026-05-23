@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "laguna-beach",
+    "name": "Laguna Beach",
+    "address": "Laguna Beach, CA 92651",
+    "neighborhood": "Laguna Beach, California",
+    "deal": "Stunning Orange County beach town known for its art galleries, rugged coves, tide pools, and crystal-clear water. Main Beach is the heart of town with a classic California vibe.",
+    "when": "SoCal",
+    "coordinates": [33.5427, -117.7854]
+  },
+  {
     "id": "san-bernardino-ca",
     "name": "San Bernardino",
     "address": "San Bernardino, CA 92401",
