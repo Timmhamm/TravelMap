@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "la-county-arboretum",
+    "name": "Los Angeles County Arboretum & Botanic Garden",
+    "address": "301 N Baldwin Ave, Arcadia, CA 91007",
+    "neighborhood": "Arcadia, California",
+    "deal": "127-acre botanical garden with plants from around the world, peacocks roaming freely, and a historic Queen Anne Cottage on a scenic lake. Filming location for Jurassic Park and Fantasy Island.",
+    "when": "SoCal",
+    "coordinates": [34.1478, -117.9917]
+  },
+  {
     "id": "avalon-catalina-island",
     "name": "Avalon",
     "address": "Avalon, CA 90704",
