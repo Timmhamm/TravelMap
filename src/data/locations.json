@@ -1528,6 +1528,168 @@
     "coordinates": [0.2307, -78.2622]
   },
   {
+    "id": "trisulti-monastery",
+    "name": "Trisulti Monastery",
+    "address": "03010 Collepardo FR, Italy",
+    "neighborhood": "Ciociaria, Lazio",
+    "deal": "Ancient Carthusian monastery tucked deep in the mountains of Lazio — still active, with Roman ruins scattered around the grounds",
+    "when": "Italy",
+    "coordinates": [41.7542, 13.4261]
+  },
+  {
+    "id": "casamari-abbey",
+    "name": "Casamari Abbey",
+    "address": "03020 Veroli FR, Italy",
+    "neighborhood": "Ciociaria, Lazio",
+    "deal": "Active Cistercian monastery with monks and Roman ruins outside — one of the finest examples of Gothic-Cistercian architecture in Italy",
+    "when": "Italy",
+    "coordinates": [41.6567, 13.3578]
+  },
+  {
+    "id": "boville-ernica",
+    "name": "Boville Ernica",
+    "address": "03022 Boville Ernica FR, Italy",
+    "neighborhood": "Ciociaria, Lazio",
+    "deal": "Cute medieval hilltop town in the Frosinone province",
+    "when": "Italy",
+    "coordinates": [41.6397, 13.4794]
+  },
+  {
+    "id": "basilica-santa-maria-salome",
+    "name": "Basilica di Santa Maria Salome",
+    "address": "Veroli, Frosinone, Italy",
+    "neighborhood": "Veroli, Lazio",
+    "deal": "Famous church with sweeping views of the valley below — one of the most scenic spots in Veroli",
+    "when": "Italy",
+    "coordinates": [41.7017, 13.4201]
+  },
+  {
+    "id": "prato-di-campoli",
+    "name": "Prato di Campoli",
+    "address": "Campoli Appennino, Frosinone, Italy",
+    "neighborhood": "Ciociaria, Lazio",
+    "deal": "Big open mountain valley with sheep — a beautiful high-altitude plateau in the Apennine mountains",
+    "when": "Italy",
+    "coordinates": [41.7380, 13.6820]
+  },
+  {
+    "id": "isola-del-liri",
+    "name": "Isola del Liri",
+    "address": "Isola del Liri, Frosinone, Italy",
+    "neighborhood": "Ciociaria, Lazio",
+    "deal": "Unique town with a scenic waterfall running right through the middle of it — the Cascata Grande drops 27 meters in the town center",
+    "when": "Italy",
+    "coordinates": [41.6833, 13.5667]
+  },
+  {
+    "id": "sora",
+    "name": "Sora",
+    "address": "Sora, Frosinone, Italy",
+    "neighborhood": "Ciociaria, Lazio",
+    "deal": "Cool mountain town in the Frosinone province, set along the Liri River with a pleasant historic center",
+    "when": "Italy",
+    "coordinates": [41.7167, 13.6167]
+  },
+  {
+    "id": "campidoglio-rome",
+    "name": "Campidoglio",
+    "address": "Piazza del Campidoglio, 00186 Roma RM, Italy",
+    "neighborhood": "Centro Storico, Rome",
+    "deal": "Iconic hilltop square designed by Michelangelo with a cool view over the Roman Forum and ancient city below",
+    "when": "Italy — Rome",
+    "coordinates": [41.8934, 12.4828]
+  },
+  {
+    "id": "castel-santangelo",
+    "name": "Castel Sant'Angelo",
+    "address": "Lungotevere Castello, 50, 00193 Roma RM, Italy",
+    "neighborhood": "Prati, Rome",
+    "deal": "2nd-century mausoleum turned medieval fortress on the Tiber River — stunning views from the top and interesting military history inside",
+    "when": "Italy — Rome",
+    "coordinates": [41.9031, 12.4663]
+  },
+  {
+    "id": "piazza-navona",
+    "name": "Piazza Navona",
+    "address": "Piazza Navona, 00186 Roma RM, Italy",
+    "neighborhood": "Centro Storico, Rome",
+    "deal": "Elegant Baroque square with the Fountain of Neptune and Bernini's Fountain of the Four Rivers — one of Rome's most beautiful piazzas",
+    "when": "Italy — Rome",
+    "coordinates": [41.8992, 12.4731]
+  },
+  {
+    "id": "piazza-san-pietro",
+    "name": "Piazza San Pietro — Vatican",
+    "address": "Piazza San Pietro, 00120 Città del Vaticano",
+    "neighborhood": "Vatican City, Rome",
+    "deal": "Bernini's magnificent colonnaded Vatican square — the heart of Catholicism. St. Peter's Basilica and the Vatican Museums are right here.",
+    "when": "Italy — Rome",
+    "coordinates": [41.9022, 12.4539]
+  },
+  {
+    "id": "parco-degli-acquedotti",
+    "name": "Parco degli Acquedotti",
+    "address": "Via Lemonia, 00178 Roma RM, Italy",
+    "neighborhood": "Appio Latino, Rome",
+    "deal": "Ancient Roman aqueducts still standing in a public park on the outskirts of Rome — an underrated and uncrowded slice of ancient history",
+    "when": "Italy — Rome",
+    "coordinates": [41.8517, 12.5511]
+  },
+  {
+    "id": "pyramid-of-cestius",
+    "name": "Pyramid of Cestius",
+    "address": "Piazzale Ostiense, 00154 Roma RM, Italy",
+    "neighborhood": "Ostiense, Rome",
+    "deal": "A genuine Egyptian-style pyramid built in ancient Rome in 12 BC — near the Ostiense metro stop, right next to the Protestant Cemetery",
+    "when": "Italy — Rome",
+    "coordinates": [41.8764, 12.4778]
+  },
+  {
+    "id": "via-del-corso",
+    "name": "Via del Corso",
+    "address": "Via del Corso, 00187 Roma RM, Italy",
+    "neighborhood": "Centro Storico, Rome",
+    "deal": "Rome's main shopping street running through the heart of the historic center — lined with stores, cafes, and street life",
+    "when": "Italy — Rome",
+    "coordinates": [41.9003, 12.4797]
+  },
+  {
+    "id": "piazza-san-marco-venice",
+    "name": "Piazza San Marco",
+    "address": "Piazza San Marco, 30100 Venezia VE, Italy",
+    "neighborhood": "San Marco, Venice",
+    "deal": "The main square of Venice with nice restaurants and live string quartets performing in the evenings. St. Mark's Basilica, the Doge's Palace, and the Campanile bell tower are all here.",
+    "when": "Italy — Venice",
+    "coordinates": [45.4341, 12.3388]
+  },
+  {
+    "id": "chiesa-san-zaccaria",
+    "name": "Chiesa di San Zaccaria",
+    "address": "Campo San Zaccaria, 30122 Venezia VE, Italy",
+    "neighborhood": "Castello, Venice",
+    "deal": "Beautiful Renaissance church with flooded underground catacombs you can walk through — one of Venice's most atmospheric hidden spots",
+    "when": "Italy — Venice",
+    "coordinates": [45.4330, 12.3425]
+  },
+  {
+    "id": "murano",
+    "name": "Murano",
+    "address": "Murano, 30141 Venezia VE, Italy",
+    "neighborhood": "Murano, Venice",
+    "deal": "Island near Venice world-famous for its centuries-old glassblowing tradition — watch artisans at work and browse the glass shops",
+    "when": "Italy — Venice",
+    "coordinates": [45.4564, 12.3547]
+  },
+  {
+    "id": "burano",
+    "name": "Burano",
+    "address": "Burano, 30012 Venezia VE, Italy",
+    "neighborhood": "Burano, Venice",
+    "deal": "Tiny island with wildly colorful houses lining the canals — one of the most photogenic places in Italy. Known for lace-making.",
+    "when": "Italy — Venice",
+    "coordinates": [45.4853, 12.4172]
+  },
+  {
     "id": "coffee-an-donut-shop",
     "name": "Coffee An' Donut Shop",
     "address": "343 Post Rd E, Westport, CT 06880",
