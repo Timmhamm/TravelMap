@@ -1699,6 +1699,15 @@
     "coordinates": [43.7731, 11.2560]
   },
   {
+    "id": "lake-lugano",
+    "name": "Lake Lugano",
+    "address": "Lago di Lugano, Switzerland / Italy",
+    "neighborhood": "Lugano, Switzerland",
+    "deal": "Stunning Alpine lake straddling the Swiss-Italian border, surrounded by mountains. Walk the lakeside promenade, take a boat cruise, or ride the funicular up Monte San Salvatore or Monte Brè for panoramic views.",
+    "when": "Italy — Lugano",
+    "coordinates": [45.9792, 8.9424]
+  },
+  {
     "id": "washington-memorial-lugano",
     "name": "Washington Memorial",
     "address": "Parco Civico, 6900 Lugano, Switzerland",
