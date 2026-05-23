@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "van-gogh-museum",
+    "name": "Van Gogh Museum",
+    "address": "Museumplein 6, 1071 DJ Amsterdam, Netherlands",
+    "neighborhood": "Museumplein, Amsterdam",
+    "deal": "World's largest collection of Van Gogh's works — over 200 paintings, 500 drawings, and 700 letters. Book tickets in advance.",
+    "when": "Amsterdam",
+    "coordinates": [52.3584, 4.8811]
+  },
+  {
     "id": "xtracold-icebar-amsterdam",
     "name": "Xtracold Icebar Amsterdam",
     "address": "Amstel 194-196, 1017 AE Amsterdam, Netherlands",
