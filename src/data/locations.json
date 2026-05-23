@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "sunset-cliffs-san-diego",
+    "name": "Sunset Cliffs Natural Park",
+    "address": "Sunset Cliffs Blvd, San Diego, CA 92107",
+    "neighborhood": "Ocean Beach, San Diego",
+    "deal": "Dramatic sandstone cliffs along the Pacific with sea caves, blowholes, and some of San Diego's best sunsets. A favorite spot for surfers, photographers, and evening strolls.",
+    "when": "SoCal",
+    "coordinates": [32.7228, -117.2526]
+  },
+  {
     "id": "mission-trails-regional-park",
     "name": "Mission Trails Regional Park",
     "address": "One Father Junipero Serra Trail, San Diego, CA 92119",
