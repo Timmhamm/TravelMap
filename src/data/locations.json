@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "japantown-sf",
+    "name": "Japantown",
+    "address": "1610 Geary Blvd, San Francisco, CA 94115",
+    "neighborhood": "Japantown, San Francisco",
+    "deal": "One of the oldest Japantowns in the U.S., centered around the Japan Center mall and Peace Plaza with its five-tiered pagoda. Great ramen, sushi, mochi, and Japanese bookstores.",
+    "when": "San Francisco",
+    "coordinates": [37.7851, -122.4294]
+  },
+  {
     "id": "fishermans-wharf-sf",
     "name": "Fisherman's Wharf",
     "address": "Fisherman's Wharf, San Francisco, CA 94133",
