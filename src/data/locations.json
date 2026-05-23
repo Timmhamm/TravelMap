@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "garden-of-eden-key-west",
+    "name": "Garden of Eden",
+    "address": "224 Duval St, Key West, FL 33040",
+    "neighborhood": "Key West, Florida",
+    "deal": "Key West's famous clothing-optional rooftop bar atop the Bull & Whistle. Relaxed, eclectic vibe with great views over Duval Street.",
+    "when": "Key West, FL",
+    "coordinates": [24.5551, -81.8039]
+  },
+  {
     "id": "harpers-ferry-wv",
     "name": "Harpers Ferry",
     "address": "Harpers Ferry, WV 25425",
