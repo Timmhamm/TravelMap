@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "angel-island-sf",
+    "name": "Angel Island State Park",
+    "address": "Angel Island, CA 94920",
+    "neighborhood": "San Francisco Bay",
+    "deal": "Car-free island in the middle of San Francisco Bay with panoramic views of the city, Marin, and the bridges. Ferry from SF or Tiburon — great hiking, biking, and historic immigration station.",
+    "when": "San Francisco",
+    "coordinates": [37.8614, -122.4330]
+  },
+  {
     "id": "pinnacles-national-park",
     "name": "Pinnacles National Park",
     "address": "5000 CA-146, Paicines, CA 95043",
