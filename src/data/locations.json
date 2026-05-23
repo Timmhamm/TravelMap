@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "harpers-ferry-wv",
+    "name": "Harpers Ferry",
+    "address": "Harpers Ferry, WV 25425",
+    "neighborhood": "Harpers Ferry, West Virginia",
+    "deal": "Historic town at the confluence of the Potomac and Shenandoah rivers, famous for John Brown's 1859 raid. Scenic hiking, Civil War history, and charming 19th-century storefronts.",
+    "when": "Harpers Ferry, WV",
+    "coordinates": [39.3234, -77.7399]
+  },
+  {
     "id": "baycare-park-clearwater",
     "name": "BayCare Ballpark",
     "address": "601 N Old Coachman Rd, Clearwater, FL 33765",
