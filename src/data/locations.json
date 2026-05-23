@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "whale-peak-soberanes-point",
+    "name": "Whale Peak at Soberanes Point",
+    "address": "Soberanes Point, Garrapata State Park, CA 93923",
+    "neighborhood": "Garrapata State Park, Big Sur",
+    "deal": "Dramatic coastal promontory in Garrapata State Park with sweeping views of the Pacific — one of the best whale watching spots on the California coast.",
+    "when": "California",
+    "coordinates": [36.4553, -121.9281]
+  },
+  {
     "id": "rocky-creek-bridge",
     "name": "Rocky Creek Bridge",
     "address": "Highway 1, Big Sur, CA 93920",
