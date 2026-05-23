@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "flying-monkeys-key-west",
+    "name": "Flying Monkeys",
+    "address": "208 Duval St, Key West, FL 33040",
+    "neighborhood": "Key West, Florida",
+    "deal": "Lively Duval Street bar known for its frozen drinks, fun atmosphere, and Wizard of Oz theme.",
+    "when": "Key West, FL",
+    "coordinates": [24.5567, -81.8047]
+  },
+  {
     "id": "hogs-breath-saloon",
     "name": "Hog's Breath Saloon",
     "address": "400 Front St, Key West, FL 33040",
