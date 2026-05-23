@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "rocky-creek-bridge",
+    "name": "Rocky Creek Bridge",
+    "address": "Highway 1, Big Sur, CA 93920",
+    "neighborhood": "Big Sur, California",
+    "deal": "Graceful concrete arch bridge on Highway 1 in Big Sur, offering stunning views of the rugged coastline and crashing Pacific below.",
+    "when": "California",
+    "coordinates": [36.3644, -121.8967]
+  },
+  {
     "id": "chinatown-sf",
     "name": "Chinatown",
     "address": "Grant Ave & Bush St, San Francisco, CA 94108",
