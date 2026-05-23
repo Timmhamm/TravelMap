@@ -1951,13 +1951,22 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
-    "id": "la-jolla-cove",
-    "name": "La Jolla Cove",
-    "address": "1100 Coast Blvd, La Jolla, CA 92037",
-    "neighborhood": "La Jolla, San Diego",
-    "deal": "Beautiful sheltered cove with crystal-clear water, sea caves, and sunbathing sea lions and seals. Popular for snorkeling and kayaking in San Diego's most scenic neighborhood.",
+    "id": "encinitas-ca",
+    "name": "Encinitas",
+    "address": "Encinitas, CA 92024",
+    "neighborhood": "Encinitas, California",
+    "deal": "Laid-back North San Diego surf town with world-class breaks at Swami's, the Self-Realization Fellowship temple gardens, great restaurants on Coast Highway, and beautiful Moonlight Beach.",
     "when": "SoCal",
-    "coordinates": [32.8508, -117.2713]
+    "coordinates": [33.0369, -117.2920]
+  },
+  {
+    "id": "shelter-island-pier",
+    "name": "Shelter Island Pier",
+    "address": "2170 Shelter Island Dr, San Diego, CA 92106",
+    "neighborhood": "Shelter Island, San Diego",
+    "deal": "Peaceful fishing pier on Shelter Island with sweeping views of San Diego Bay, the downtown skyline, and Point Loma. A local favorite for fishing and sunset watching.",
+    "when": "SoCal",
+    "coordinates": [32.7178, -117.2281]
   },
   {
     "id": "anza-borrego-desert-state-park",
