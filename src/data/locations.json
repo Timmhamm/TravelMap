@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "point-lobos-state-reserve",
+    "name": "Point Lobos State Natural Reserve",
+    "address": "CA-1, Carmel-by-the-Sea, CA 93923",
+    "neighborhood": "Carmel, California",
+    "deal": "Called \"the greatest meeting of land and water in the world\" — rugged headlands, hidden coves, kelp forests, and abundant wildlife including sea otters, seals, and seabirds.",
+    "when": "California",
+    "coordinates": [36.5152, -121.9469]
+  },
+  {
     "id": "whale-peak-soberanes-point",
     "name": "Whale Peak at Soberanes Point",
     "address": "Soberanes Point, Garrapata State Park, CA 93923",
