@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "xtracold-icebar-amsterdam",
+    "name": "Xtracold Icebar Amsterdam",
+    "address": "Amstel 194-196, 1017 AE Amsterdam, Netherlands",
+    "neighborhood": "Amsterdam, Netherlands",
+    "deal": "Bar kept at -10°C where everything — walls, bar, glasses — is made of ice. Entry includes warm gear and drinks.",
+    "when": "Amsterdam",
+    "coordinates": [52.3667, 4.9011]
+  },
+  {
     "id": "royal-horse-guards",
     "name": "Horse Guards",
     "address": "Horse Guards, Whitehall, London SW1A 2AX, United Kingdom",
