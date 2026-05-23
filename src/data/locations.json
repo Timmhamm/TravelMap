@@ -1922,5 +1922,32 @@
     "deal": "Fish & chips spot on the Saugatuck River",
     "when": "Westport, CT",
     "coordinates": [41.1408, -73.3591]
+  },
+  {
+    "id": "126-victoria-st-london",
+    "name": "126 Victoria Street",
+    "address": "126 Victoria St, London SW1E 5EA, United Kingdom",
+    "neighborhood": "Westminster, London",
+    "deal": "",
+    "when": "London",
+    "coordinates": [51.4966, -0.1367]
+  },
+  {
+    "id": "big-ben",
+    "name": "Big Ben",
+    "address": "Westminster Bridge Rd, London SW1A 2JR, United Kingdom",
+    "neighborhood": "Westminster, London",
+    "deal": "Iconic Victorian clock tower (Elizabeth Tower) at the north end of the Palace of Westminster. Best viewed from Westminster Bridge.",
+    "when": "London",
+    "coordinates": [51.5007, -0.1246]
+  },
+  {
+    "id": "london-eye",
+    "name": "London Eye",
+    "address": "Riverside Building, County Hall, London SE1 7PB, United Kingdom",
+    "neighborhood": "South Bank, London",
+    "deal": "Giant 135m Ferris wheel on the South Bank of the Thames with sweeping views over central London.",
+    "when": "London",
+    "coordinates": [51.5033, -0.1195]
   }
 ]
