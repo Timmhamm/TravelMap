@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "joshua-tree-national-park",
+    "name": "Joshua Tree National Park",
+    "address": "74485 National Park Dr, Twentynine Palms, CA 92277",
+    "neighborhood": "Twentynine Palms, California",
+    "deal": "Where the Mojave and Sonoran deserts meet — iconic twisted Joshua trees, massive boulder formations, world-class rock climbing, and some of the darkest skies in Southern California.",
+    "when": "SoCal",
+    "coordinates": [33.8734, -115.9010]
+  },
+  {
     "id": "encinitas-ca",
     "name": "Encinitas",
     "address": "Encinitas, CA 92024",
