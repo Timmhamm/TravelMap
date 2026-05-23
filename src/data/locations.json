@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "shark-fin-cove",
+    "name": "Shark Fin Cove",
+    "address": "Highway 1, Davenport, CA 95017",
+    "neighborhood": "Davenport, California",
+    "deal": "Striking sea stack shaped like a shark fin rising from a secluded cove on the Santa Cruz coast. Short trail down to the beach with dramatic coastal views.",
+    "when": "California",
+    "coordinates": [37.0269, -122.2311]
+  },
+  {
     "id": "point-lobos-state-reserve",
     "name": "Point Lobos State Natural Reserve",
     "address": "CA-1, Carmel-by-the-Sea, CA 93923",
