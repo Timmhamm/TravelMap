@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "anza-borrego-desert-state-park",
+    "name": "Anza-Borrego Desert State Park",
+    "address": "200 Palm Canyon Dr, Borrego Springs, CA 92004",
+    "neighborhood": "Borrego Springs, California",
+    "deal": "California's largest state park — a vast Sonoran Desert landscape with slot canyons, wildflower blooms in spring, giant metal sculptures, and some of the best dark skies in Southern California.",
+    "when": "SoCal",
+    "coordinates": [33.0953, -116.2358]
+  },
+  {
     "id": "laguna-beach",
     "name": "Laguna Beach",
     "address": "Laguna Beach, CA 92651",
