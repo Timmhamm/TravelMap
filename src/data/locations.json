@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "hogs-breath-saloon",
+    "name": "Hog's Breath Saloon",
+    "address": "400 Front St, Key West, FL 33040",
+    "neighborhood": "Key West, Florida",
+    "deal": "Key West institution since 1976 — open-air bar with live music, cold beer, and the motto \"Hog's Breath is Better Than No Breath At All.\"",
+    "when": "Key West, FL",
+    "coordinates": [24.5594, -81.8066]
+  },
+  {
     "id": "southernmost-point",
     "name": "Southernmost Point of the Continental U.S.A.",
     "address": "Southernmost Point, Key West, FL 33040",
