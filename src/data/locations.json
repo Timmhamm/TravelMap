@@ -1951,6 +1951,33 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "palace-of-versailles",
+    "name": "Palace of Versailles",
+    "address": "Place d'Armes, 78000 Versailles, France",
+    "neighborhood": "Versailles, France",
+    "deal": "Opulent royal château of Louis XIV with the dazzling Hall of Mirrors and vast formal gardens. About 40 mins by RER C from central Paris — book tickets in advance.",
+    "when": "Paris",
+    "coordinates": [48.8049, 2.1204]
+  },
+  {
+    "id": "eiffel-tower",
+    "name": "Eiffel Tower",
+    "address": "Champ de Mars, 5 Av. Anatole France, 75007 Paris, France",
+    "neighborhood": "7th Arrondissement, Paris",
+    "deal": "Paris' iconic 330m iron lattice tower built in 1889. Best views from Trocadéro plaza across the Seine. Book tickets online to skip the queue.",
+    "when": "Paris",
+    "coordinates": [48.8584, 2.2945]
+  },
+  {
+    "id": "louvre-museum",
+    "name": "Louvre Museum",
+    "address": "Rue de Rivoli, 75001 Paris, France",
+    "neighborhood": "1st Arrondissement, Paris",
+    "deal": "World's largest art museum and home to the Mona Lisa, Venus de Milo, and Winged Victory. Book tickets in advance — allow a full day.",
+    "when": "Paris",
+    "coordinates": [48.8606, 2.3376]
+  },
+  {
     "id": "manneken-pis",
     "name": "Manneken Pis",
     "address": "Rue de l'Étuve 31, 1000 Brussels, Belgium",
