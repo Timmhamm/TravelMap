@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "frederick-douglass-memorial-bridge",
+    "name": "Frederick Douglass Memorial Bridge",
+    "address": "Frederick Douglass Memorial Bridge, Washington, DC 20032",
+    "neighborhood": "Washington, D.C.",
+    "deal": "Striking new cable-stayed bridge over the Anacostia River, opened in 2021 and named for the abolitionist Frederick Douglass who lived nearby in Anacostia.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8648, -76.9892]
+  },
+  {
     "id": "blue-toad-cidery",
     "name": "Blue Toad Hard Cider",
     "address": "4629 Rockfish Valley Hwy, Nellysford, VA 22958",
