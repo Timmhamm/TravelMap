@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "zinfandel-winery-napa",
+    "name": "Zinfandel Winery",
+    "address": "Napa Valley, CA",
+    "neighborhood": "Napa Valley, California",
+    "deal": "",
+    "when": "Napa",
+    "coordinates": [38.2975, -122.2869]
+  },
+  {
     "id": "vikingsholm-lake-tahoe",
     "name": "Vikingsholm",
     "address": "Emerald Bay State Park, CA 96150",
