@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "cloud-gate-chicago",
+    "name": "Cloud Gate (The Bean)",
+    "address": "201 E Randolph St, Chicago, IL 60602",
+    "neighborhood": "Millennium Park, Chicago",
+    "deal": "Anish Kapoor's iconic 110-ton reflective steel sculpture in Millennium Park — distorting the Chicago skyline in its curved mirror surface. One of the most photographed public artworks in the world.",
+    "when": "Chicago",
+    "coordinates": [41.8827, -87.6233]
+  },
+  {
     "id": "chicago-riverwalk",
     "name": "Chicago Riverwalk",
     "address": "Chicago Riverwalk, Chicago, IL 60601",
