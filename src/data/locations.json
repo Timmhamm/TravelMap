@@ -1951,13 +1951,13 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
-    "id": "filbert-stockton-sf",
-    "name": "Filbert St & Stockton Street",
+    "id": "washington-square-sf",
+    "name": "Washington Square",
     "address": "Filbert St & Stockton St, San Francisco, CA 94133",
     "neighborhood": "North Beach, San Francisco",
-    "deal": "",
+    "deal": "Beloved North Beach park surrounded by Italian cafés, Saints Peter and Paul Church, and Coit Tower nearby. A great spot to people-watch with locals.",
     "when": "San Francisco",
-    "coordinates": [37.8006, -122.4109]
+    "coordinates": [37.8003, -122.4106]
   },
   {
     "id": "angel-island-sf",
