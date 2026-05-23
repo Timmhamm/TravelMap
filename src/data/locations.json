@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "avalon-catalina-island",
+    "name": "Avalon",
+    "address": "Avalon, CA 90704",
+    "neighborhood": "Catalina Island, California",
+    "deal": "The only incorporated city on Catalina Island — a charming resort town with the iconic Art Deco Casino ballroom, glass-bottom boat tours, snorkeling, and golf carts instead of cars.",
+    "when": "SoCal",
+    "coordinates": [33.3428, -118.3290]
+  },
+  {
     "id": "golden-gate-bridge",
     "name": "Golden Gate Bridge",
     "address": "Golden Gate Bridge, San Francisco, CA 94129",
