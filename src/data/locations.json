@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "general-sherman-tree",
+    "name": "General Sherman Tree",
+    "address": "Sequoia National Park, CA 93262",
+    "neighborhood": "Sequoia National Park, California",
+    "deal": "The largest tree on Earth by volume — a giant sequoia standing 274 feet tall and over 2,100 years old. Short paved trail from the parking area.",
+    "when": "Sequoia National Park",
+    "coordinates": [36.5842, -118.7483]
+  },
+  {
     "id": "steamer-lane-santa-cruz",
     "name": "Steamer Lane",
     "address": "West Cliff Dr, Santa Cruz, CA 95060",
