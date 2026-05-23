@@ -1951,6 +1951,33 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "lincoln-financial-field",
+    "name": "Lincoln Financial Field",
+    "address": "1 Lincoln Financial Field Way, Philadelphia, PA 19148",
+    "neighborhood": "South Philadelphia",
+    "deal": "Home of the Philadelphia Eagles since 2003 — one of the loudest and most intimidating venues in the NFL. Go Birds.",
+    "when": "Philadelphia",
+    "coordinates": [39.9008, -75.1675]
+  },
+  {
+    "id": "citizens-bank-park",
+    "name": "Citizens Bank Park",
+    "address": "1 Citizens Bank Way, Philadelphia, PA 19148",
+    "neighborhood": "South Philadelphia",
+    "deal": "Home of the Philadelphia Phillies since 2004. One of the best ballparks in baseball — great sightlines, incredible cheesesteak options, and the passionate Philly faithful.",
+    "when": "Philadelphia",
+    "coordinates": [39.9061, -75.1665]
+  },
+  {
+    "id": "fishtown-philadelphia",
+    "name": "Fishtown",
+    "address": "Fishtown, Philadelphia, PA 19125",
+    "neighborhood": "Fishtown, Philadelphia",
+    "deal": "Philly's coolest neighborhood — packed with craft breweries, vintage shops, great restaurants, and live music venues. Don't miss Suraya, Wm. Mulherin's Sons, and the Fillmore.",
+    "when": "Philadelphia",
+    "coordinates": [39.9738, -75.1333]
+  },
+  {
     "id": "tijuana-mexico",
     "name": "Tijuana",
     "address": "Tijuana, Baja California, Mexico",
