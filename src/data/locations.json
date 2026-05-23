@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "manneken-pis",
+    "name": "Manneken Pis",
+    "address": "Rue de l'Étuve 31, 1000 Brussels, Belgium",
+    "neighborhood": "Brussels, Belgium",
+    "deal": "Brussels' beloved 17th-century bronze fountain statue of a little boy urinating — a quirky symbol of the city's irreverent spirit. Often dressed in costume.",
+    "when": "Brussels",
+    "coordinates": [50.8450, 4.3498]
+  },
+  {
     "id": "grote-markt-brussels",
     "name": "Grote Markt (Grand Place)",
     "address": "Grote Markt, 1000 Brussels, Belgium",
