@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "chinatown-sf",
+    "name": "Chinatown",
+    "address": "Grant Ave & Bush St, San Francisco, CA 94108",
+    "neighborhood": "Chinatown, San Francisco",
+    "deal": "The oldest Chinatown in North America, established in 1848. Dense blocks of restaurants, tea shops, herbal stores, and temples — enter through the iconic Dragon Gate on Grant Ave.",
+    "when": "San Francisco",
+    "coordinates": [37.7941, -122.4078]
+  },
+  {
     "id": "beringer-vineyards",
     "name": "Beringer Vineyards",
     "address": "2000 Main St, St Helena, CA 94574",
