@@ -1949,5 +1949,14 @@
     "deal": "Giant 135m Ferris wheel on the South Bank of the Thames with sweeping views over central London.",
     "when": "London",
     "coordinates": [51.5033, -0.1195]
+  },
+  {
+    "id": "royal-horse-guards",
+    "name": "Horse Guards",
+    "address": "Horse Guards, Whitehall, London SW1A 2AX, United Kingdom",
+    "neighborhood": "Whitehall, London",
+    "deal": "Historic royal ceremonial building on Whitehall, home to the Household Cavalry. The changing of the guard ceremony takes place daily at 11am (10am Sundays).",
+    "when": "London",
+    "coordinates": [51.5024, -0.1281]
   }
 ]
