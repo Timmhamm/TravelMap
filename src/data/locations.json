@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "beringer-vineyards",
+    "name": "Beringer Vineyards",
+    "address": "2000 Main St, St Helena, CA 94574",
+    "neighborhood": "St. Helena, Napa Valley",
+    "deal": "Napa's oldest continuously operating winery, founded in 1876. Famous for its Rhine House mansion, cave tours, and award-winning Cabernet Sauvignon.",
+    "when": "Napa",
+    "coordinates": [38.5063, -122.4711]
+  },
+  {
     "id": "zinfandel-winery-napa",
     "name": "Zinfandel Winery",
     "address": "Napa Valley, CA",
