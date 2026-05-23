@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "el-capitan-yosemite",
+    "name": "El Capitan",
+    "address": "Yosemite Valley, Yosemite National Park, CA 95389",
+    "neighborhood": "Yosemite National Park, California",
+    "deal": "The world's most famous big wall — a 3,000-foot sheer granite monolith rising from Yosemite Valley. Best viewed from El Capitan Meadow below. Made famous by the free solo climb in 2017.",
+    "when": "Yosemite",
+    "coordinates": [37.7336, -119.6378]
+  },
+  {
     "id": "grant-grove-sequoia",
     "name": "Grant Grove",
     "address": "Grant Grove Village, Kings Canyon National Park, CA 93633",
