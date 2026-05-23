@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "navy-pier-chicago",
+    "name": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "neighborhood": "Streeterville, Chicago",
+    "deal": "Chicago's iconic lakefront landmark stretching half a mile into Lake Michigan — Ferris wheel, restaurants, gardens, fireworks, and stunning views of the skyline.",
+    "when": "Chicago",
+    "coordinates": [41.8919, -87.6051]
+  },
+  {
     "id": "short-pump-virginia",
     "name": "Short Pump",
     "address": "Short Pump, VA 23233",
