@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "torrey-pines-state-reserve",
+    "name": "Torrey Pines State Natural Reserve",
+    "address": "12600 N Torrey Pines Rd, La Jolla, CA 92037",
+    "neighborhood": "La Jolla, San Diego",
+    "deal": "Home to one of the rarest pine trees in North America, with dramatic sandstone cliffs and trails overlooking the Pacific. One of the most scenic hikes in San Diego.",
+    "when": "SoCal",
+    "coordinates": [32.9290, -117.2518]
+  },
+  {
     "id": "joshua-tree-national-park",
     "name": "Joshua Tree National Park",
     "address": "74485 National Park Dr, Twentynine Palms, CA 92277",
