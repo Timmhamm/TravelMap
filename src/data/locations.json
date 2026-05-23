@@ -1951,13 +1951,22 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
-    "id": "general-sherman-tree",
-    "name": "General Sherman Tree",
-    "address": "Sequoia National Park, CA 93262",
-    "neighborhood": "Sequoia National Park, California",
-    "deal": "The largest tree on Earth by volume — a giant sequoia standing 274 feet tall and over 2,100 years old. Short paved trail from the parking area.",
+    "id": "grant-grove-sequoia",
+    "name": "Grant Grove",
+    "address": "Grant Grove Village, Kings Canyon National Park, CA 93633",
+    "neighborhood": "Kings Canyon National Park, California",
+    "deal": "Ancient giant sequoia grove home to the General Grant Tree — the world's second largest tree and the only living thing designated a National Shrine.",
     "when": "Sequoia National Park",
-    "coordinates": [36.5842, -118.7483]
+    "coordinates": [36.7474, -118.9695]
+  },
+  {
+    "id": "panoramic-point-overlook",
+    "name": "Panoramic Point Overlook",
+    "address": "Panoramic Point Rd, Kings Canyon National Park, CA 93633",
+    "neighborhood": "Kings Canyon National Park, California",
+    "deal": "Short 1-mile round trip hike to a stunning overlook with sweeping views of Kings Canyon, the High Sierra, and the San Joaquin Valley on clear days.",
+    "when": "Sequoia National Park",
+    "coordinates": [36.7455, -118.9606]
   },
   {
     "id": "steamer-lane-santa-cruz",
