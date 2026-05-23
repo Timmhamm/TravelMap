@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "great-falls-park-va",
+    "name": "Great Falls Park",
+    "address": "9200 Old Dominion Dr, McLean, VA 22102",
+    "neighborhood": "McLean, Virginia",
+    "deal": "Stunning National Park where the Potomac River crashes through a series of dramatic falls and gorges. Great hiking along the river cliffs with views of the falls.",
+    "when": "Great Falls, VA",
+    "coordinates": [38.9965, -77.2536]
+  },
+  {
     "id": "flying-monkeys-key-west",
     "name": "Flying Monkeys",
     "address": "208 Duval St, Key West, FL 33040",
