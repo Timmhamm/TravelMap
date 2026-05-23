@@ -1951,6 +1951,24 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "golden-gate-park-sf",
+    "name": "Golden Gate Park",
+    "address": "Golden Gate Park, San Francisco, CA 94117",
+    "neighborhood": "Golden Gate Park, San Francisco",
+    "deal": "Sprawling 1,017-acre urban park stretching from the Haight to the Pacific Ocean. Home to the de Young Museum, Japanese Tea Garden, Conservatory of Flowers, and Bison paddock.",
+    "when": "San Francisco",
+    "coordinates": [37.7694, -122.4862]
+  },
+  {
+    "id": "castro-theater-sf",
+    "name": "Castro Theatre",
+    "address": "429 Castro St, San Francisco, CA 94114",
+    "neighborhood": "Castro, San Francisco",
+    "deal": "Stunning 1922 Spanish Colonial Revival movie palace in the heart of the Castro. One of the last remaining grand movie theaters in the U.S., with a famous Wurlitzer pipe organ.",
+    "when": "San Francisco",
+    "coordinates": [37.7625, -122.4350]
+  },
+  {
     "id": "washington-square-sf",
     "name": "Washington Square",
     "address": "Filbert St & Stockton St, San Francisco, CA 94133",
