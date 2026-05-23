@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "grote-markt-brussels",
+    "name": "Grote Markt (Grand Place)",
+    "address": "Grote Markt, 1000 Brussels, Belgium",
+    "neighborhood": "Brussels, Belgium",
+    "deal": "Brussels' central square and UNESCO World Heritage Site, surrounded by ornate guild houses and the Gothic Town Hall. One of Europe's most beautiful squares.",
+    "when": "Brussels",
+    "coordinates": [50.8467, 4.3525]
+  },
+  {
     "id": "red-light-district-amsterdam",
     "name": "Red Light District (De Wallen)",
     "address": "Oudezijds Achterburgwal, 1012 Amsterdam, Netherlands",
