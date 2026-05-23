@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "baycare-park-clearwater",
+    "name": "BayCare Ballpark",
+    "address": "601 N Old Coachman Rd, Clearwater, FL 33765",
+    "neighborhood": "Clearwater, Florida",
+    "deal": "Spring training home of the Philadelphia Phillies. Intimate 8,500-seat stadium with great sightlines and a relaxed Florida atmosphere.",
+    "when": "Clearwater, FL",
+    "coordinates": [27.9731, -82.7282]
+  },
+  {
     "id": "palace-of-versailles",
     "name": "Palace of Versailles",
     "address": "Place d'Armes, 78000 Versailles, France",
