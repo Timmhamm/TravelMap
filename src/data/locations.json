@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "lincoln-memorial",
+    "name": "Lincoln Memorial",
+    "address": "2 Lincoln Memorial Cir NW, Washington, DC 20037",
+    "neighborhood": "National Mall, Washington, D.C.",
+    "deal": "Iconic neoclassical memorial to Abraham Lincoln at the west end of the National Mall. The 19-foot marble statue and inscribed Gettysburg Address are free to visit, open 24 hours.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8893, -77.0502]
+  },
+  {
     "id": "washington-monument-dc",
     "name": "Washington Monument",
     "address": "2 15th St NW, Washington, DC 20024",
