@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "san-bernardino-ca",
+    "name": "San Bernardino",
+    "address": "San Bernardino, CA 92401",
+    "neighborhood": "San Bernardino, California",
+    "deal": "",
+    "when": "SoCal",
+    "coordinates": [34.1083, -117.2898]
+  },
+  {
     "id": "strands-beach",
     "name": "Strands Beach",
     "address": "Strands Beach, Dana Point, CA 92624",
