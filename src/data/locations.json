@@ -1374,6 +1374,7 @@
     "neighborhood": "La Fortuna, Costa Rica",
     "deal": "170-ft waterfall with a 15-min walk down and a 30-min swim at the base. $20/pp. One of the most stunning waterfalls in Costa Rica.",
     "when": "Costa Rica, Aug 2024",
+    "image": "/images/costa-rica/image1.jpg",
     "coordinates": [10.4427, -84.5551]
   },
   {
@@ -1383,6 +1384,7 @@
     "neighborhood": "La Fortuna, Costa Rica",
     "deal": "6 hanging bridges through the rainforest canopy, ~2 miles total (1 hour). Great for birdwatching and wildlife spotting. $32/pp.",
     "when": "Costa Rica, Aug 2024",
+    "image": "/images/costa-rica/image6.jpg",
     "coordinates": [10.4795, -84.6193]
   },
   {
@@ -1401,6 +1403,7 @@
     "neighborhood": "La Fortuna, Costa Rica",
     "deal": "Hike through hardened lava fields at the base of one of the world's most active volcanoes. Buy tickets at the door — online tickets currently unavailable. $15/pp. About 2 hours.",
     "when": "Costa Rica, Aug 2024",
+    "image": "/images/costa-rica/image4.jpg",
     "coordinates": [10.4626, -84.7030]
   },
   {
@@ -1410,6 +1413,7 @@
     "neighborhood": "La Fortuna, Costa Rica",
     "deal": "Lush resort hot springs fed by the Arenal Volcano — cascading thermal pools surrounded by tropical gardens. $89/pp.",
     "when": "Costa Rica, Aug 2024",
+    "image": "/images/costa-rica/image2.jpg",
     "coordinates": [10.4776, -84.7197]
   },
   {
@@ -1419,6 +1423,7 @@
     "neighborhood": "Manuel Antonio, Costa Rica",
     "deal": "Costa Rica's most popular park — beach and wildlife (sloths and monkeys) in one. Manuel Antonio Main Trail (1.3 mi flat) links to Escondido Beach, Manuel Antonio Beach, and Espadilla Sur. Playa Espadilla Norte is best for sunset. Closes at 4 PM, closed Tuesdays. $16/pp.",
     "when": "Costa Rica, Aug 2024",
+    "image": "/images/costa-rica/image3.jpg",
     "coordinates": [9.3904, -84.1364]
   },
   {
@@ -1437,6 +1442,7 @@
     "neighborhood": "Tarcoles, Costa Rica",
     "deal": "Pull over on the bridge over the Río Tárcoles for a free, up-close look at dozens of massive American crocodiles sunning on the riverbanks below.",
     "when": "Costa Rica, Aug 2024",
+    "image": "/images/costa-rica/image7.jpg",
     "coordinates": [9.7744, -84.6279]
   },
   {
@@ -1446,7 +1452,80 @@
     "neighborhood": "Jaco, Costa Rica",
     "deal": "You don't need to be a guest — tell them you're there to watch the sunset. Stunning clifftop views over the Pacific. Playa Hermosa (grey sand beach) is just south of Jaco town.",
     "when": "Costa Rica, Aug 2024",
+    "image": "/images/costa-rica/image5.jpg",
     "coordinates": [9.6433, -84.6278]
+  },
+  {
+    "id": "quito-colonial-quarter",
+    "name": "Quito — Colonial Quarter",
+    "address": "Centro Histórico, Quito, Ecuador",
+    "neighborhood": "Centro Histórico, Quito",
+    "deal": "UNESCO World Heritage Site (1978) — wrought-iron balconies and majestic stone pillars gracing 300-year-old plazas, churches, and palaces. Visit the ornate Compañía de Jesús church. Carved into a narrow Andean plateau beneath Pichincha Volcano.",
+    "when": "Ecuador & Galápagos",
+    "coordinates": [-0.2201, -78.5123]
+  },
+  {
+    "id": "intinian-museum",
+    "name": "Intiñan Museum & The Equator",
+    "address": "Mitad del Mundo, San Antonio de Pichincha, Quito",
+    "neighborhood": "Mitad del Mundo, Quito",
+    "deal": "Discover how the Incas determined the middle of the Earth. Stand in both hemispheres at the same time — literally on the equator, the namesake of Ecuador.",
+    "when": "Ecuador & Galápagos",
+    "coordinates": [-0.0022, -78.4558]
+  },
+  {
+    "id": "san-cristobal-island",
+    "name": "San Cristóbal Island",
+    "address": "San Cristóbal Island, Galápagos, Ecuador",
+    "neighborhood": "Galápagos Islands, Ecuador",
+    "deal": "Snorkeling and a coastal walk on La Loberia beach. San Cristóbal Interpretation Center. Hike Tijeretas Hill for panoramic views over the island.",
+    "when": "Ecuador & Galápagos",
+    "coordinates": [-0.9000, -89.6000]
+  },
+  {
+    "id": "charles-darwin-research-station",
+    "name": "Charles Darwin Research Station",
+    "address": "Santa Cruz Island, Galápagos, Ecuador",
+    "neighborhood": "Santa Cruz Island, Galápagos",
+    "deal": "See the giant tortoise breeding center — the animals from which the islands took their name. Visit the Twin Craters and a tortoise ranch in the Santa Cruz Highlands to see wild tortoises roaming free.",
+    "when": "Ecuador & Galápagos",
+    "coordinates": [-0.7393, -90.3030]
+  },
+  {
+    "id": "isabela-island",
+    "name": "Isabela Island",
+    "address": "Isabela Island, Galápagos, Ecuador",
+    "neighborhood": "Galápagos Islands, Ecuador",
+    "deal": "The largest Galápagos island — declared a national park in 1959. See iguanas, penguins, flightless cormorants, and Darwin's finches. Visit Los Humedales wildlife reserve, a pink flamingo habitat, and a tortoise breeding center. Snorkel with sea turtles and sea lions. Tintoreras Islet is a lava formation with colonies of black marine iguanas.",
+    "when": "Ecuador & Galápagos",
+    "coordinates": [-0.9500, -90.9700]
+  },
+  {
+    "id": "tortuga-bay",
+    "name": "Tortuga Bay — Santa Cruz Island",
+    "address": "Tortuga Bay, Santa Cruz Island, Galápagos, Ecuador",
+    "neighborhood": "Santa Cruz Island, Galápagos",
+    "deal": "Beautiful white-sand beach hike from Puerto Ayora — 2.5 km each way. Marine iguanas, sharks, and sea turtles in the calm lagoon. Playa de los Alemanes is a quieter cove just beyond.",
+    "when": "Ecuador & Galápagos",
+    "coordinates": [-0.7667, -90.3333]
+  },
+  {
+    "id": "mindo-cloud-forest",
+    "name": "Mindo Cloud Forest",
+    "address": "Mindo, Pichincha Province, Ecuador",
+    "neighborhood": "Mindo, Ecuador",
+    "deal": "Diverse natural landscape on the slopes of Pichincha Volcano — home to 300+ species of tropical birds and nearly 400 types of orchids. Hike the forest and visit a butterfly garden.",
+    "when": "Ecuador & Galápagos",
+    "coordinates": [0.0522, -78.7742]
+  },
+  {
+    "id": "otavalo-market",
+    "name": "Otavalo Market",
+    "address": "Otavalo, Imbabura Province, Ecuador",
+    "neighborhood": "Otavalo, Ecuador",
+    "deal": "One of the largest craft markets in South America, surrounded by the Imbabura, Cotacachi, and Mojanda volcanoes. Shop for handmade textiles, musical instruments, and souvenirs. Watch a demonstration of how local families weave traditional ponchos — a tradition going back hundreds of years.",
+    "when": "Ecuador & Galápagos",
+    "coordinates": [0.2307, -78.2622]
   },
   {
     "id": "coffee-an-donut-shop",

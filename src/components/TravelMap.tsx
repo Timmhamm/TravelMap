@@ -20,6 +20,7 @@ interface Location {
   oyster?: string;
   deal: string;
   when: string;
+  image?: string;
   coordinates: [number, number];
 }
 
@@ -27,14 +28,18 @@ function createPopupContent(place: Location): string {
   const notesLine = place.deal
     ? `<div style="margin-bottom: 6px;">${place.deal}</div>`
     : '';
+  const imageLine = place.image
+    ? `<img src="${place.image}" alt="${place.name}" style="width: 100%; border-radius: 6px; margin-top: 10px; display: block;" />`
+    : '';
   return `
-    <div style="max-width: 400px; padding: 16px; background: white; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
+    <div style="max-width: 360px; padding: 16px; background: white; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
       <h3 style="font-size: 18px; font-weight: bold; color: #1f2937; margin-bottom: 4px;">${place.name}</h3>
       <div style="font-size: 12px; color: #6b7280; margin-bottom: 10px;">${place.neighborhood}</div>
       <div style="font-size: 14px; color: #374151; line-height: 1.5;">
         ${notesLine}
         <div style="font-size: 12px; color: #6b7280; margin-top: 8px; font-style: italic;">${place.when}</div>
       </div>
+      ${imageLine}
     </div>
   `;
 }
