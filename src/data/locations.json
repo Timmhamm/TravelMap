@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "blue-toad-cidery",
+    "name": "Blue Toad Hard Cider",
+    "address": "4629 Rockfish Valley Hwy, Nellysford, VA 22958",
+    "neighborhood": "Nellysford, Virginia",
+    "deal": "Nelson County cidery in the Blue Ridge foothills, producing small-batch hard ciders. Scenic tasting room in the heart of Virginia's orchard country.",
+    "when": "Virginia",
+    "coordinates": [37.9019, -78.9139]
+  },
+  {
     "id": "devils-backbone-basecamp",
     "name": "Devil's Backbone Basecamp Brewpub",
     "address": "200 Mosbys Run, Roseland, VA 22967",
