@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "steamer-lane-santa-cruz",
+    "name": "Steamer Lane",
+    "address": "West Cliff Dr, Santa Cruz, CA 95060",
+    "neighborhood": "Santa Cruz, California",
+    "deal": "One of California's most famous surf breaks, at Lighthouse Point in Santa Cruz. Great spot to watch world-class surfers from the cliffs above.",
+    "when": "California",
+    "coordinates": [36.9516, -122.0256]
+  },
+  {
     "id": "shark-fin-cove",
     "name": "Shark Fin Cove",
     "address": "Highway 1, Davenport, CA 95017",
