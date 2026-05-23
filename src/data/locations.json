@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "golden-gate-bridge",
+    "name": "Golden Gate Bridge",
+    "address": "Golden Gate Bridge, San Francisco, CA 94129",
+    "neighborhood": "San Francisco",
+    "deal": "San Francisco's iconic 1.7-mile suspension bridge spanning the Golden Gate strait. Walk or bike across for stunning views of the bay, city, and Marin Headlands.",
+    "when": "San Francisco",
+    "coordinates": [37.8199, -122.4783]
+  },
+  {
     "id": "cypress-tree-tunnel",
     "name": "Cypress Tree Tunnel",
     "address": "Sir Francis Drake Blvd, Point Reyes Station, CA 94956",
