@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "vikingsholm-lake-tahoe",
+    "name": "Vikingsholm",
+    "address": "Emerald Bay State Park, CA 96150",
+    "neighborhood": "Emerald Bay, Lake Tahoe",
+    "deal": "Stunning 1929 Scandinavian-style castle on the shore of Emerald Bay, one of the finest examples of Scandinavian architecture in North America. Reached by a steep 1-mile trail down to the water.",
+    "when": "Lake Tahoe",
+    "coordinates": [38.9538, -120.1047]
+  },
+  {
     "id": "golden-gate-park-sf",
     "name": "Golden Gate Park",
     "address": "Golden Gate Park, San Francisco, CA 94117",
