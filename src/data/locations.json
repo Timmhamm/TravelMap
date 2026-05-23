@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "levis-stadium",
+    "name": "Levi's Stadium",
+    "address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
+    "neighborhood": "Santa Clara, California",
+    "deal": "Home of the San Francisco 49ers, opened in 2014. State-of-the-art 68,500-seat stadium in Silicon Valley.",
+    "when": "San Francisco",
+    "coordinates": [37.4033, -121.9694]
+  },
+  {
     "id": "batteries-to-bluffs-sf",
     "name": "Batteries to Bluffs Trail",
     "address": "Presidio of San Francisco, CA 94129",
