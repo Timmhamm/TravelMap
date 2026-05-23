@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "pinnacles-national-park",
+    "name": "Pinnacles National Park",
+    "address": "5000 CA-146, Paicines, CA 95043",
+    "neighborhood": "San Benito County, California",
+    "deal": "Dramatic volcanic spires and talus caves in central California. Great hiking, rock climbing, and one of the best spots to see California condors in the wild.",
+    "when": "California",
+    "coordinates": [36.4906, -121.1825]
+  },
+  {
     "id": "lake-forest-dollar-point",
     "name": "Lake Forest",
     "address": "Dollar Point, CA 96145",
