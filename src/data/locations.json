@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "strands-beach",
+    "name": "Strands Beach",
+    "address": "Strands Beach, Dana Point, CA 92624",
+    "neighborhood": "Dana Point, California",
+    "deal": "Hidden gem beach in Dana Point accessible by a long staircase — uncrowded, with tide pools, dramatic bluffs, and stunning views of the coastline.",
+    "when": "SoCal",
+    "coordinates": [33.4558, -117.6814]
+  },
+  {
     "id": "hsi-lai-temple",
     "name": "Hsi Lai Temple",
     "address": "3456 S Glenmark Dr, Hacienda Heights, CA 91745",
