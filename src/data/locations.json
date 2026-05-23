@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "southernmost-point",
+    "name": "Southernmost Point of the Continental U.S.A.",
+    "address": "Southernmost Point, Key West, FL 33040",
+    "neighborhood": "Key West, Florida",
+    "deal": "The iconic red, black, and yellow buoy marking the southernmost point of the continental United States — just 90 miles from Cuba.",
+    "when": "Key West, FL",
+    "coordinates": [24.5461, -81.7998]
+  },
+  {
     "id": "garden-of-eden-key-west",
     "name": "Garden of Eden",
     "address": "224 Duval St, Key West, FL 33040",
