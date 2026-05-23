@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "chicago-riverwalk",
+    "name": "Chicago Riverwalk",
+    "address": "Chicago Riverwalk, Chicago, IL 60601",
+    "neighborhood": "Downtown Chicago",
+    "deal": "Vibrant pedestrian promenade along the Chicago River — lined with restaurants, bars, kayak rentals, and stunning views of the city's iconic architecture. Best spot for an architecture boat tour.",
+    "when": "Chicago",
+    "coordinates": [41.8876, -87.6270]
+  },
+  {
     "id": "navy-pier-chicago",
     "name": "Navy Pier",
     "address": "600 E Grand Ave, Chicago, IL 60611",
