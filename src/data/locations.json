@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "batteries-to-bluffs-sf",
+    "name": "Batteries to Bluffs Trail",
+    "address": "Presidio of San Francisco, CA 94129",
+    "neighborhood": "Presidio, San Francisco",
+    "deal": "Scenic cliffside trail in the Presidio with jaw-dropping views of the Golden Gate Bridge, Baker Beach, and the Marin Headlands. Passes restored WWII gun batteries along the way.",
+    "when": "San Francisco",
+    "coordinates": [37.7988, -122.4808]
+  },
+  {
     "id": "japantown-sf",
     "name": "Japantown",
     "address": "1610 Geary Blvd, San Francisco, CA 94115",
