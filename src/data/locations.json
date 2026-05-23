@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "mission-trails-regional-park",
+    "name": "Mission Trails Regional Park",
+    "address": "One Father Junipero Serra Trail, San Diego, CA 92119",
+    "neighborhood": "San Diego, California",
+    "deal": "One of the largest urban parks in the U.S. — 7,000 acres of rugged canyons, chaparral, and the historic Old Mission Dam. Great hiking and mountain biking with panoramic city views from Cowles Mountain.",
+    "when": "SoCal",
+    "coordinates": [32.8157, -117.0442]
+  },
+  {
     "id": "torrey-pines-state-reserve",
     "name": "Torrey Pines State Natural Reserve",
     "address": "12600 N Torrey Pines Rd, La Jolla, CA 92037",
