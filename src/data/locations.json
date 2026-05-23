@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "national-portrait-gallery",
+    "name": "National Portrait Gallery",
+    "address": "8th and F Streets NW, Washington, DC 20001",
+    "neighborhood": "Penn Quarter, Washington, D.C.",
+    "deal": "Smithsonian museum housing portraits of notable Americans — presidents, artists, activists, and cultural figures. Free admission, stunning Greek Revival building shared with the American Art Museum.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8980, -77.0230]
+  },
+  {
     "id": "nationals-park",
     "name": "Nationals Park",
     "address": "1500 South Capitol St SE, Washington, DC 20003",
