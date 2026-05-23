@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "union-station-dc",
+    "name": "Union Station",
+    "address": "50 Massachusetts Ave NE, Washington, DC 20002",
+    "neighborhood": "Capitol Hill, Washington, D.C.",
+    "deal": "Beaux-Arts landmark opened in 1907, one of the busiest train stations in the U.S. Beautiful vaulted ceilings, great food hall, and steps from the Capitol.",
+    "when": "Washington, D.C.",
+    "coordinates": [38.8973, -77.0066]
+  },
+  {
     "id": "frederick-douglass-memorial-bridge",
     "name": "Frederick Douglass Memorial Bridge",
     "address": "Frederick Douglass Memorial Bridge, Washington, DC 20032",
