@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "lake-forest-dollar-point",
+    "name": "Lake Forest",
+    "address": "Dollar Point, CA 96145",
+    "neighborhood": "Dollar Point, Lake Tahoe",
+    "deal": "",
+    "when": "Lake Tahoe",
+    "coordinates": [39.1744, -120.1283]
+  },
+  {
     "id": "national-portrait-gallery",
     "name": "National Portrait Gallery",
     "address": "8th and F Streets NW, Washington, DC 20001",
