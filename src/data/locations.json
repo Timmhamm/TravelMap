@@ -1699,6 +1699,15 @@
     "coordinates": [43.7731, 11.2560]
   },
   {
+    "id": "galleria-degli-uffizi",
+    "name": "Galleria degli Uffizi",
+    "address": "Piazzale degli Uffizi, 6, 50122 Firenze FI, Italy",
+    "neighborhood": "Centro Storico, Florence",
+    "deal": "One of the most important art museums in the world — home to Botticelli's Birth of Venus, da Vinci's Annunciation, and Michelangelo's Doni Tondo. Book tickets well in advance.",
+    "when": "Italy — Florence",
+    "coordinates": [43.7678, 11.2553]
+  },
+  {
     "id": "galleria-accademia-firenze",
     "name": "Galleria dell'Accademia",
     "address": "Via Ricasoli, 60, 50122 Firenze FI, Italy",
