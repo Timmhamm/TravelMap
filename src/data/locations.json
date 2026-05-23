@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "red-light-district-amsterdam",
+    "name": "Red Light District (De Wallen)",
+    "address": "Oudezijds Achterburgwal, 1012 Amsterdam, Netherlands",
+    "neighborhood": "De Wallen, Amsterdam",
+    "deal": "Amsterdam's famous historic district — one of the oldest parts of the city, with medieval architecture, canals, coffee shops, and the Oude Kerk church.",
+    "when": "Amsterdam",
+    "coordinates": [52.3736, 4.8986]
+  },
+  {
     "id": "van-gogh-museum",
     "name": "Van Gogh Museum",
     "address": "Museumplein 6, 1071 DJ Amsterdam, Netherlands",
