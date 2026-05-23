@@ -1951,6 +1951,24 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "cypress-tree-tunnel",
+    "name": "Cypress Tree Tunnel",
+    "address": "Sir Francis Drake Blvd, Point Reyes Station, CA 94956",
+    "neighborhood": "Point Reyes National Seashore, California",
+    "deal": "A stunning avenue of Monterey cypress trees arching over the road to Point Reyes Lighthouse — one of the most photogenic spots on the California coast.",
+    "when": "San Francisco",
+    "coordinates": [38.0532, -122.8561]
+  },
+  {
+    "id": "point-reyes-national-seashore",
+    "name": "Point Reyes National Seashore",
+    "address": "1 Bear Valley Rd, Point Reyes Station, CA 94956",
+    "neighborhood": "Marin County, California",
+    "deal": "Wild, windswept peninsula north of San Francisco with dramatic cliffs, a historic lighthouse, elephant seals, tule elk, and miles of pristine coastline.",
+    "when": "San Francisco",
+    "coordinates": [38.0305, -122.9969]
+  },
+  {
     "id": "levis-stadium",
     "name": "Levi's Stadium",
     "address": "4900 Marie P DeBartolo Way, Santa Clara, CA 95054",
