@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "northern-pines-flagstaff",
+    "name": "The Northern Pines Restaurant",
+    "address": "Flagstaff, AZ 86001",
+    "neighborhood": "Flagstaff, Arizona",
+    "deal": "",
+    "when": "Arizona",
+    "coordinates": [35.1983, -111.6513]
+  },
+  {
     "id": "driggs-idaho",
     "name": "Driggs",
     "address": "Driggs, ID 83422",
