@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "caesars-palace-las-vegas",
+    "name": "Caesars Palace",
+    "address": "3570 S Las Vegas Blvd, Las Vegas, NV 89109",
+    "neighborhood": "The Strip, Las Vegas",
+    "deal": "Iconic Las Vegas Strip resort with Roman-themed grandeur, the Forum Shops, multiple celebrity chef restaurants, a world-class spa, and the Colosseum concert venue.",
+    "when": "Las Vegas",
+    "coordinates": [36.1162, -115.1745]
+  },
+  {
     "id": "atlantis-casino-reno",
     "name": "Atlantis Casino Resort Spa",
     "address": "3800 S Virginia St, Reno, NV 89502",
