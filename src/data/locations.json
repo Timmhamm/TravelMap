@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "driggs-idaho",
+    "name": "Driggs",
+    "address": "Driggs, ID 83422",
+    "neighborhood": "Teton Valley, Idaho",
+    "deal": "Charming small town in Teton Valley on the western slope of the Tetons — a quieter alternative to Jackson Hole with great skiing at Grand Targhee, hiking, and stunning mountain views.",
+    "when": "Idaho",
+    "coordinates": [43.7227, -111.1113]
+  },
+  {
     "id": "quail-park-lodge-kanab",
     "name": "Quail Park Lodge",
     "address": "125 US-89, Kanab, UT 84741",
