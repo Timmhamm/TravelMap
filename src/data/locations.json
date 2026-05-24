@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "quail-park-lodge-kanab",
+    "name": "Quail Park Lodge",
+    "address": "125 US-89, Kanab, UT 84741",
+    "neighborhood": "Kanab, Utah",
+    "deal": "Stylish retro motel in Kanab — a perfect base for exploring Grand Canyon North Rim, Zion, Bryce Canyon, and the Wave. Great pool and mid-century modern vibes.",
+    "when": "Utah",
+    "coordinates": [37.0475, -112.5263]
+  },
+  {
     "id": "valley-of-fire-state-park",
     "name": "Valley of Fire State Park",
     "address": "Valley of Fire Hwy, Overton, NV 89040",
