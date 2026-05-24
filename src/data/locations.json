@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "atlantis-casino-reno",
+    "name": "Atlantis Casino Resort Spa",
+    "address": "3800 S Virginia St, Reno, NV 89502",
+    "neighborhood": "Reno, Nevada",
+    "deal": "Upscale casino resort in Reno with excellent dining, a full spa, and a sky terrace pool. One of the top properties in the Biggest Little City.",
+    "when": "Reno, NV",
+    "coordinates": [39.4901, -119.7897]
+  },
+  {
     "id": "rehoboth-beach-de",
     "name": "Rehoboth Beach",
     "address": "Rehoboth Beach, DE 19971",
