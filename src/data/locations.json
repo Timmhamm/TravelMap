@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "valley-of-fire-state-park",
+    "name": "Valley of Fire State Park",
+    "address": "Valley of Fire Hwy, Overton, NV 89040",
+    "neighborhood": "Overton, Nevada",
+    "deal": "Nevada's oldest state park — vivid red Aztec sandstone formations, ancient petroglyphs, and surreal desert landscapes just an hour from Las Vegas. Best at sunrise or sunset.",
+    "when": "Las Vegas",
+    "coordinates": [36.4692, -114.5253]
+  },
+  {
     "id": "caesars-palace-las-vegas",
     "name": "Caesars Palace",
     "address": "3570 S Las Vegas Blvd, Las Vegas, NV 89109",
