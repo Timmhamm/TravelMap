@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "rehoboth-beach-de",
+    "name": "Rehoboth Beach",
+    "address": "Rehoboth Beach, DE 19971",
+    "neighborhood": "Rehoboth Beach, Delaware",
+    "deal": "Delaware's most popular beach town — a classic boardwalk, great restaurants on Rehoboth Ave, Dogfish Head brewery nearby, and a lively yet laid-back vibe. The \"Nation's Summer Capital.\"",
+    "when": "Delaware",
+    "coordinates": [38.7207, -75.0771]
+  },
+  {
     "id": "pamelas-pg-diner-pittsburgh",
     "name": "Pamela's P&G Diner",
     "address": "60 21st St, Pittsburgh, PA 15222",
