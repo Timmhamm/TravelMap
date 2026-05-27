@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "oak-bluffs-mv",
+    "name": "Oak Bluffs",
+    "address": "Oak Bluffs, MA 02557",
+    "neighborhood": "Oak Bluffs, Martha's Vineyard",
+    "deal": "Lively and colorful Vineyard town known for its gingerbread cottages, the Flying Horses carousel (oldest platform merry-go-round in the US), Circuit Ave bars and restaurants, and the ferry dock.",
+    "when": "Martha's Vineyard",
+    "coordinates": [41.4554, -70.5615]
+  },
+  {
     "id": "lamberts-cove-beach-mv",
     "name": "Lambert's Cove Beach",
     "address": "Lambert's Cove Rd, West Tisbury, MA 02575",
