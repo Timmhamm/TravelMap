@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "great-head-acadia",
+    "name": "Great Head Trail",
+    "address": "Sand Beach Rd, Acadia National Park, ME 04609",
+    "neighborhood": "Acadia National Park, Maine",
+    "deal": "Loop trail on the rocky peninsula above Sand Beach with dramatic cliff-top views of the Atlantic. One of Acadia's most rewarding short hikes — starts right at Sand Beach.",
+    "when": "Maine",
+    "coordinates": [44.3274, -68.1836]
+  },
+  {
     "id": "north-bubble-trailhead-acadia",
     "name": "North Bubble Trailhead",
     "address": "North Bubble Trailhead, Acadia National Park, ME 04609",
