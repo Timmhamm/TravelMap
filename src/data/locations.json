@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "side-street-cafe-bar-harbor",
+    "name": "Side Street Cafe",
+    "address": "49 Rodick St, Bar Harbor, ME 04609",
+    "neighborhood": "Bar Harbor, Maine",
+    "deal": "Beloved Bar Harbor casual spot known for its lobster mac & cheese, great burgers, and laid-back atmosphere. A local favorite away from the main tourist strip.",
+    "when": "Maine",
+    "coordinates": [44.3877, -68.2033]
+  },
+  {
     "id": "wild-gardens-of-acadia",
     "name": "Wild Gardens of Acadia",
     "address": "Sieur de Monts, Acadia National Park, ME 04609",
