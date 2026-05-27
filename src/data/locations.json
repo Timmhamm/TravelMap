@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "bar-island-land-bridge",
+    "name": "Bar Island Land Bridge",
+    "address": "Bridge St, Bar Harbor, ME 04609",
+    "neighborhood": "Bar Harbor, Maine",
+    "deal": "A gravel bar that emerges at low tide connecting Bar Harbor to Bar Island — walk across to explore the island's trails and views. Check tide charts carefully: it floods fast!",
+    "when": "Maine",
+    "coordinates": [44.3958, -68.2072]
+  },
+  {
     "id": "abels-lobster-pound-maine",
     "name": "Abel's Lobster Pound",
     "address": "1668 ME-198, Mount Desert, ME 04660",
