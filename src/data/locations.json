@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "santarpio-pizza-boston",
+    "name": "Santarpio's Pizza",
+    "address": "111 Chelsea St, East Boston, MA 02128",
+    "neighborhood": "East Boston, Boston",
+    "deal": "Boston's most legendary pizza joint since 1903 — thin-crust pies, grilled sausage skewers, cash only, no frills. A true institution worth the trip to Eastie.",
+    "when": "Boston",
+    "coordinates": [42.3715, -71.0387]
+  },
+  {
     "id": "barking-crab-boston",
     "name": "Barking Crab",
     "address": "88 Sleeper St, Boston, MA 02210",
