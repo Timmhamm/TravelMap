@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "barking-crab-boston",
+    "name": "Barking Crab",
+    "address": "88 Sleeper St, Boston, MA 02210",
+    "neighborhood": "Fort Point, Boston",
+    "deal": "Classic Boston waterfront seafood shack on the Fort Point Channel — outdoor picnic tables, cold beer, whole lobsters, and clam chowder with views of the harbor.",
+    "when": "Boston",
+    "coordinates": [42.3519, -71.0480]
+  },
+  {
     "id": "beehive-restaurant-boston",
     "name": "The Beehive",
     "address": "541 Tremont St, Boston, MA 02116",
