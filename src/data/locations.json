@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "portland-head-lighthouse",
+    "name": "Portland Head Light",
+    "address": "1000 Shore Rd, Cape Elizabeth, ME 04107",
+    "neighborhood": "Cape Elizabeth, Maine",
+    "deal": "Maine's oldest lighthouse, commissioned by George Washington in 1791 — perched dramatically on the rocky Atlantic shore in Fort Williams Park. One of the most photographed lighthouses in the U.S.",
+    "when": "Maine",
+    "coordinates": [43.6234, -70.2076]
+  },
+  {
     "id": "thirsty-pig-portland-maine",
     "name": "The Thirsty Pig",
     "address": "37 Exchange St, Portland, ME 04101",
