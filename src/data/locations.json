@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "killington-resort-vermont",
+    "name": "Killington Resort",
+    "address": "4763 Killington Rd, Killington, VT 05751",
+    "neighborhood": "Killington, Vermont",
+    "deal": "The largest ski resort in the Eastern U.S. — 22 lifts, 155 trails, and the longest ski season in the East. Great hiking and mountain biking in summer too.",
+    "when": "Vermont",
+    "coordinates": [43.6745, -72.7793]
+  },
+  {
     "id": "aquinnah-cliffs-overlook",
     "name": "Aquinnah Cliffs Overlook",
     "address": "Aquinnah Circle, Aquinnah, MA 02535",
