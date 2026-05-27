@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "stewmans-lobster-pound",
+    "name": "Stewman's Lobster Pound",
+    "address": "35 West St, Bar Harbor, ME 04609",
+    "neighborhood": "Bar Harbor, Maine",
+    "deal": "Classic Maine lobster pound on the Bar Harbor waterfront — whole steamed lobsters, clam chowder, and cold beer with views of Frenchman Bay. A must-do in Acadia country.",
+    "when": "Maine",
+    "coordinates": [44.3876, -68.2043]
+  },
+  {
     "id": "cadillac-mountain-maine",
     "name": "Cadillac Mountain",
     "address": "Acadia National Park, Bar Harbor, ME 04609",
