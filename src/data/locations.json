@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "lamberts-cove-beach-mv",
+    "name": "Lambert's Cove Beach",
+    "address": "Lambert's Cove Rd, West Tisbury, MA 02575",
+    "neighborhood": "West Tisbury, Martha's Vineyard",
+    "deal": "One of Martha's Vineyard's most beautiful and serene beaches — calm, clear water on the Vineyard Sound, soft sand, and a peaceful atmosphere. Residents and inn guests only.",
+    "when": "Martha's Vineyard",
+    "coordinates": [41.4340, -70.6622]
+  },
+  {
     "id": "mary-baker-eddy-library",
     "name": "Mary Baker Eddy Library",
     "address": "200 Massachusetts Ave, Boston, MA 02115",
