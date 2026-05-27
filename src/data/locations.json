@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "aquinnah-cliffs-overlook",
+    "name": "Aquinnah Cliffs Overlook",
+    "address": "Aquinnah Circle, Aquinnah, MA 02535",
+    "neighborhood": "Aquinnah, Martha's Vineyard",
+    "deal": "Dramatic multicolored clay cliffs at the western tip of Martha's Vineyard — a National Historic Landmark. Stunning views of the Elizabeth Islands and the Gay Head Lighthouse perched above.",
+    "when": "Martha's Vineyard",
+    "coordinates": [41.3480, -70.8375]
+  },
+  {
     "id": "oak-bluffs-mv",
     "name": "Oak Bluffs",
     "address": "Oak Bluffs, MA 02557",
