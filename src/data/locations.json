@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "cadillac-mountain-maine",
+    "name": "Cadillac Mountain",
+    "address": "Acadia National Park, Bar Harbor, ME 04609",
+    "neighborhood": "Acadia National Park, Maine",
+    "deal": "At 1,530 feet, the highest point on the U.S. Eastern Seaboard — from October to March, the first place in the U.S. to see the sunrise. Stunning 360° views over Frenchman Bay and the islands.",
+    "when": "Maine",
+    "coordinates": [44.3526, -68.2273]
+  },
+  {
     "id": "killington-resort-vermont",
     "name": "Killington Resort",
     "address": "4763 Killington Rd, Killington, VT 05751",
