@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "isa-bistro-portland-maine",
+    "name": "Isa Bistro",
+    "address": "37 Avon St, Portland, ME 04101",
+    "neighborhood": "West End, Portland, Maine",
+    "deal": "Intimate neighborhood bistro in Portland's West End with a seasonal menu, natural wines, and a warm, unpretentious atmosphere. One of Portland's most beloved local restaurants.",
+    "when": "Maine",
+    "coordinates": [43.6594, -70.2697]
+  },
+  {
     "id": "portland-head-lighthouse",
     "name": "Portland Head Light",
     "address": "1000 Shore Rd, Cape Elizabeth, ME 04107",
