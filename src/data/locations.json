@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "new-england-aquarium",
+    "name": "New England Aquarium",
+    "address": "1 Central Wharf, Boston, MA 02110",
+    "neighborhood": "Waterfront, Boston",
+    "deal": "World-class aquarium on Boston's waterfront featuring a four-story Giant Ocean Tank, penguin colony, harbor seal exhibit, and whale watching tours from the dock.",
+    "when": "Boston",
+    "coordinates": [42.3592, -71.0496]
+  },
+  {
     "id": "harpoon-brewery-boston",
     "name": "Harpoon Brewery",
     "address": "306 Northern Ave, Boston, MA 02210",
