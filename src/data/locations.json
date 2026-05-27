@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "beehive-restaurant-boston",
+    "name": "The Beehive",
+    "address": "541 Tremont St, Boston, MA 02116",
+    "neighborhood": "South End, Boston",
+    "deal": "Beloved South End restaurant and live jazz venue in a basement space with an art-deco bohemian vibe. Great cocktails, eclectic menu, and nightly live music.",
+    "when": "Boston",
+    "coordinates": [42.3459, -71.0707]
+  },
+  {
     "id": "uss-constitution-boston",
     "name": "USS Constitution (Old Ironsides)",
     "address": "Charlestown Navy Yard, Boston, MA 02129",
