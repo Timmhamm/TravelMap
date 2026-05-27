@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "thirsty-pig-portland-maine",
+    "name": "The Thirsty Pig",
+    "address": "37 Exchange St, Portland, ME 04101",
+    "neighborhood": "Old Port, Portland, Maine",
+    "deal": "Cozy craft beer bar in Portland's Old Port with an impressive tap list, great sausages, and a warm neighborhood vibe. A local staple on the cobblestone Exchange Street.",
+    "when": "Maine",
+    "coordinates": [43.6577, -70.2560]
+  },
+  {
     "id": "bar-island-land-bridge",
     "name": "Bar Island Land Bridge",
     "address": "Bridge St, Bar Harbor, ME 04609",
