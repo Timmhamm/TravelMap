@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "schooner-head-overlook",
+    "name": "Schooner Head Overlook",
+    "address": "Schooner Head Rd, Acadia National Park, ME 04609",
+    "neighborhood": "Acadia National Park, Maine",
+    "deal": "Scenic overlook on the eastern shore of Mount Desert Island with sweeping views of Frenchman Bay and the open Atlantic. A quieter, less-visited gem in Acadia.",
+    "when": "Maine",
+    "coordinates": [44.3558, -68.1897]
+  },
+  {
     "id": "great-head-acadia",
     "name": "Great Head Trail",
     "address": "Sand Beach Rd, Acadia National Park, ME 04609",
