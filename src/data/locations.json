@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "harpoon-brewery-boston",
+    "name": "Harpoon Brewery",
+    "address": "306 Northern Ave, Boston, MA 02210",
+    "neighborhood": "Seaport District, Boston",
+    "deal": "Boston's beloved craft brewery on the waterfront — tours, a massive beer hall, and the legendary Harpoon IPA. Great spot for a pint with harbor views.",
+    "when": "Boston",
+    "coordinates": [42.3492, -71.0425]
+  },
+  {
     "id": "santarpio-pizza-boston",
     "name": "Santarpio's Pizza",
     "address": "111 Chelsea St, East Boston, MA 02128",
