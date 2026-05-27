@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "mary-baker-eddy-library",
+    "name": "Mary Baker Eddy Library",
+    "address": "200 Massachusetts Ave, Boston, MA 02115",
+    "neighborhood": "Back Bay, Boston",
+    "deal": "Stunning library and museum dedicated to the founder of Christian Science, featuring the iconic Mapparium — a stained-glass globe you can walk inside with perfect acoustics.",
+    "when": "Boston",
+    "coordinates": [42.3446, -71.0853]
+  },
+  {
     "id": "new-england-aquarium",
     "name": "New England Aquarium",
     "address": "1 Central Wharf, Boston, MA 02110",
