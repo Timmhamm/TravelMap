@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "uss-constitution-boston",
+    "name": "USS Constitution (Old Ironsides)",
+    "address": "Charlestown Navy Yard, Boston, MA 02129",
+    "neighborhood": "Charlestown, Boston",
+    "deal": "The world's oldest commissioned naval vessel still afloat — launched in 1797 and never defeated in battle. Free tours daily at the Charlestown Navy Yard.",
+    "when": "Boston",
+    "coordinates": [42.3722, -71.0561]
+  },
+  {
     "id": "northern-pines-flagstaff",
     "name": "The Northern Pines Restaurant",
     "address": "Flagstaff, AZ 86001",
