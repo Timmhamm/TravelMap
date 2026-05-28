@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "watkins-glen-state-park",
+    "name": "Watkins Glen State Park",
+    "address": "1009 N Franklin St, Watkins Glen, NY 14891",
+    "neighborhood": "Watkins Glen, New York",
+    "deal": "One of New York's most dramatic gorges — a 1.5-mile trail winds through 19 waterfalls carved into the rock over 400 feet. Stunning at any time of year.",
+    "when": "New York",
+    "coordinates": [42.3782, -76.8713]
+  },
+  {
     "id": "juniata-college",
     "name": "Juniata College",
     "address": "1700 Moore St, Huntingdon, PA 16652",
