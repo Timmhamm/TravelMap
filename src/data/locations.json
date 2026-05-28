@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "juniata-college",
+    "name": "Juniata College",
+    "address": "1700 Moore St, Huntingdon, PA 16652",
+    "neighborhood": "Huntingdon, Pennsylvania",
+    "deal": "",
+    "when": "Pennsylvania",
+    "coordinates": [40.4840, -77.9986]
+  },
+  {
     "id": "zenos-state-college",
     "name": "Zeno's Pub",
     "address": "100 W College Ave, State College, PA 16801",
