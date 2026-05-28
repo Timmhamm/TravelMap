@@ -1951,6 +1951,15 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "two-goats-brewing-burdett",
+    "name": "Two Goats Brewing",
+    "address": "5027 NY-414, Burdett, NY 14818",
+    "neighborhood": "Burdett, Finger Lakes, New York",
+    "deal": "Laid-back craft brewery on the eastern shore of Seneca Lake with great beers, a dog-friendly patio, and stunning Finger Lakes views. A Finger Lakes wine country hidden gem.",
+    "when": "New York",
+    "coordinates": [42.4247, -76.8541]
+  },
+  {
     "id": "watkins-glen-state-park",
     "name": "Watkins Glen State Park",
     "address": "1009 N Franklin St, Watkins Glen, NY 14891",
