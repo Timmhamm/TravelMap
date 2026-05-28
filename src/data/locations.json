@@ -1951,6 +1951,33 @@
     "coordinates": [51.5033, -0.1195]
   },
   {
+    "id": "zenos-state-college",
+    "name": "Zeno's Pub",
+    "address": "100 W College Ave, State College, PA 16801",
+    "neighborhood": "State College, Pennsylvania",
+    "deal": "Penn State's legendary dive bar — a true institution with an enormous beer selection, great happy hours, and decades of Nittany Lion tradition.",
+    "when": "State College, PA",
+    "coordinates": [40.7934, -77.8619]
+  },
+  {
+    "id": "sharkies-state-college",
+    "name": "Sharkies",
+    "address": "State College, PA 16801",
+    "neighborhood": "State College, Pennsylvania",
+    "deal": "",
+    "when": "State College, PA",
+    "coordinates": [40.7920, -77.8600]
+  },
+  {
+    "id": "champs-state-college",
+    "name": "Champs",
+    "address": "526 E College Ave, State College, PA 16801",
+    "neighborhood": "State College, Pennsylvania",
+    "deal": "",
+    "when": "State College, PA",
+    "coordinates": [40.7924, -77.8574]
+  },
+  {
     "id": "isa-bistro-portland-maine",
     "name": "Isa Bistro",
     "address": "37 Avon St, Portland, ME 04101",
