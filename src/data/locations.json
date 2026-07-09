@@ -3020,5 +3020,392 @@
     "deal": "Historic royal ceremonial building on Whitehall, home to the Household Cavalry. The changing of the guard ceremony takes place daily at 11am (10am Sundays).",
     "when": "London",
     "coordinates": [51.5024, -0.1281]
+  },
+  {
+    "id": "mercado-san-pedro-cusco",
+    "name": "Mercado de San Pedro",
+    "address": "Calle Santa Clara, Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Cusco's main market — fresh produce, local food stalls, textiles, and a great window into daily life. A must-do morning stop.",
+    "when": "Peru",
+    "coordinates": [-13.5247, -71.9774]
+  },
+  {
+    "id": "qorikancha-cusco",
+    "name": "Qorikancha",
+    "address": "Plazoleta Santo Domingo, Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "[$4] One of the most important sites in the Inca Empire, famous for its perfect Inca masonry juxtaposed with the Spanish colonial Church of Santo Domingo built on top of it.",
+    "when": "Peru",
+    "coordinates": [-13.5181, -71.9764]
+  },
+  {
+    "id": "plaza-de-armas-cusco",
+    "name": "Plaza de Armas",
+    "address": "Plaza de Armas, Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "The grand central square of Cusco — surrounded by colonial arcades, the Cathedral, and La Compañía de Jesús church. Heart of the city.",
+    "when": "Peru",
+    "coordinates": [-13.5167, -71.9783]
+  },
+  {
+    "id": "cusco-cathedral",
+    "name": "Cusco Cathedral",
+    "address": "Plaza de Armas, Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "16th-century Spanish Renaissance cathedral on Plaza de Armas, built over an Inca palace. Houses a huge collection of colonial religious art.",
+    "when": "Peru",
+    "coordinates": [-13.5163, -71.9779]
+  },
+  {
+    "id": "plaza-san-blas-cusco",
+    "name": "Plaza San Blas",
+    "address": "Plaza San Blas, Cusco, Peru",
+    "neighborhood": "San Blas, Cusco, Peru",
+    "deal": "Charming bohemian neighborhood square in the artisan district of Cusco — narrow cobblestone streets, galleries, and whitewashed walls.",
+    "when": "Peru",
+    "coordinates": [-13.5143, -71.9744]
+  },
+  {
+    "id": "siete-borreguitos-cusco",
+    "name": "Calle Siete Borreguitos",
+    "address": "Calle 7 Borreguitos, Cusco, Peru",
+    "neighborhood": "San Blas, Cusco, Peru",
+    "deal": "Famous narrow cobblestone alley in the San Blas district — one of the most photogenic streets in Cusco with traditional Andean architecture.",
+    "when": "Peru",
+    "coordinates": [-13.5138, -71.9742]
+  },
+  {
+    "id": "sapantiana-aqueduct-cusco",
+    "name": "Sapantiana Aqueduct",
+    "address": "Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Ancient Inca water channel still running through a residential Cusco neighborhood — a lesser-visited but atmospheric piece of Inca engineering.",
+    "when": "Peru",
+    "coordinates": [-13.5128, -71.9789]
+  },
+  {
+    "id": "saqsaywaman-cusco",
+    "name": "Saqsaywaman",
+    "address": "Saqsaywaman, Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Massive Inca fortress overlooking Cusco — built with enormous limestone blocks, some weighing over 100 tons, fitted together without mortar. Stunning panoramic views of the city.",
+    "when": "Peru",
+    "coordinates": [-13.5083, -71.9822]
+  },
+  {
+    "id": "cusco-planetarium",
+    "name": "Cusco Planetarium",
+    "address": "Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Unique planetarium offering shows on Andean astronomy and how the Incas read the night sky — a great evening activity with views of the Southern Hemisphere stars.",
+    "when": "Peru",
+    "coordinates": [-13.5100, -71.9836]
+  },
+  {
+    "id": "qenqo-cusco",
+    "name": "Qenqo",
+    "address": "Qenqo, Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Inca ceremonial site just outside Cusco — a large limestone outcrop carved with zigzag channels, altars, and an underground chamber used for ritual purposes.",
+    "when": "Peru",
+    "coordinates": [-13.5067, -71.9711]
+  },
+  {
+    "id": "puka-pukara-cusco",
+    "name": "Puka Pukara",
+    "address": "Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "\"Red Fortress\" — a small but atmospheric Inca military outpost on the road to Tambomachay, with multiple levels of walls and great views of the surrounding valley.",
+    "when": "Peru",
+    "coordinates": [-13.4939, -71.9544]
+  },
+  {
+    "id": "tambomachay-cusco",
+    "name": "Tambomachay",
+    "address": "Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "\"Place of Rest\" — a beautifully preserved Inca hydraulic complex with spring-fed fountains believed to have been used for ritual bathing by Inca nobility.",
+    "when": "Peru",
+    "coordinates": [-13.4908, -71.9547]
+  },
+  {
+    "id": "calle-resbalosa-cusco",
+    "name": "Calle Resbalosa",
+    "address": "Calle Resbalosa, Cusco, Peru",
+    "neighborhood": "San Blas, Cusco, Peru",
+    "deal": "Famous steep stairway street climbing into the San Blas hillside — \"Slippery Street\" offers a workout and great views back over Cusco's rooftops.",
+    "when": "Peru",
+    "coordinates": [-13.5133, -71.9758]
+  },
+  {
+    "id": "territorio-cocina-peruana-cusco",
+    "name": "Territorio Cocina Peruana",
+    "address": "Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Top-rated Cusco restaurant (8.9) serving refined Peruvian cuisine with local Andean ingredients — ceviche, lomo saltado, and creative takes on traditional dishes.",
+    "when": "Peru",
+    "coordinates": [-13.5155, -71.9800]
+  },
+  {
+    "id": "morena-peruvian-kitchen-cusco",
+    "name": "Morena Peruvian Kitchen",
+    "address": "Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Traditional Peruvian restaurant (8.2) in Cusco — hearty Andean classics like cuy, alpaca steak, and slow-braised stews in a warm, homey setting.",
+    "when": "Peru",
+    "coordinates": [-13.5167, -71.9792]
+  },
+  {
+    "id": "oculto-cusco",
+    "name": "Oculto",
+    "address": "Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Highly rated (8.2) modern bar and restaurant in Cusco with creative cocktails and Peruvian fusion food — a great dinner or late-night spot.",
+    "when": "Peru",
+    "coordinates": [-13.5160, -71.9786]
+  },
+  {
+    "id": "pachapapa-cusco",
+    "name": "PACHAPAPA",
+    "address": "Plazoleta San Blas 120, Cusco, Peru",
+    "neighborhood": "San Blas, Cusco, Peru",
+    "deal": "Beloved Cusco institution (7.5) on Plaza San Blas — traditional cusqueña cooking with dishes like cuy al horno and chicharrón, in a charming courtyard setting.",
+    "when": "Peru",
+    "coordinates": [-13.5141, -71.9748]
+  },
+  {
+    "id": "limo-cusco",
+    "name": "Limo",
+    "address": "Portal de Carnes 236, Cusco, Peru",
+    "neighborhood": "Cusco, Peru",
+    "deal": "Japanese-Peruvian fusion restaurant (7.3) on Plaza de Armas — creative Nikkei dishes with Andean ingredients and great balcony views over the square.",
+    "when": "Peru",
+    "coordinates": [-13.5163, -71.9782]
+  },
+  {
+    "id": "moray-sacred-valley",
+    "name": "Moray",
+    "address": "Moray, Maras, Cusco, Peru",
+    "neighborhood": "Sacred Valley, Peru",
+    "deal": "Mysterious Inca agricultural site — massive circular terraces carved into a natural depression, possibly used as a microclimate lab to cultivate crops at different altitudes.",
+    "when": "Peru",
+    "coordinates": [-13.3325, -72.1997]
+  },
+  {
+    "id": "maras-salt-mines",
+    "name": "Maras Salt Mines (Salineras de Maras)",
+    "address": "Maras, Cusco, Peru",
+    "neighborhood": "Sacred Valley, Peru",
+    "deal": "Thousands of individual salt evaporation pools cascading down a hillside — salt has been harvested here since Inca times. A surreal and photogenic landscape.",
+    "when": "Peru",
+    "coordinates": [-13.3378, -72.1578]
+  },
+  {
+    "id": "ollantaytambo",
+    "name": "Ollantaytambo",
+    "address": "Ollantaytambo, Cusco, Peru",
+    "neighborhood": "Sacred Valley, Peru",
+    "deal": "Living Inca town in the Sacred Valley — massive terraced fortress ruins above a perfectly preserved Inca street grid still inhabited today. The train to Machu Picchu departs from here.",
+    "when": "Peru",
+    "coordinates": [-13.2589, -72.2636]
+  },
+  {
+    "id": "pisac-sacred-valley",
+    "name": "Pisac",
+    "address": "Pisac, Cusco, Peru",
+    "neighborhood": "Sacred Valley, Peru",
+    "deal": "Charming Sacred Valley town with an impressive hillside Inca citadel and one of Peru's best artisan markets — textiles, ceramics, and silver jewelry.",
+    "when": "Peru",
+    "coordinates": [-13.4162, -71.8489]
+  },
+  {
+    "id": "machu-picchu",
+    "name": "Machu Picchu",
+    "address": "Machu Picchu, Cusco, Peru",
+    "neighborhood": "Machu Picchu, Peru",
+    "deal": "15th-century Inca citadel perched in the clouds at 2,430m — one of the world's great archaeological wonders. Tickets booked via Viator with Angelina, tour at 10:00am.",
+    "when": "Peru",
+    "coordinates": [-13.1631, -72.5450]
+  },
+  {
+    "id": "restaurante-anita-aguas-calientes",
+    "name": "Restaurante Anita",
+    "address": "Aguas Calientes, Cusco, Peru",
+    "neighborhood": "Aguas Calientes, Peru",
+    "deal": "Reddit-recommended lunch spot in Aguas Calientes (Machu Picchu Pueblo) — reliable, good-value Peruvian food after a morning at Machu Picchu.",
+    "when": "Peru",
+    "coordinates": [-13.1530, -72.5258]
+  },
+  {
+    "id": "humantay-lake",
+    "name": "Humantay Lake",
+    "address": "Cusco Region, Peru",
+    "neighborhood": "Cusco Region, Peru",
+    "deal": "Stunning turquoise glacial lake at 4,200m, surrounded by snow-capped peaks — a half-day hike from Soraypampa. One of the most beautiful spots near Cusco.",
+    "when": "Peru",
+    "coordinates": [-13.6208, -72.5483]
+  },
+  {
+    "id": "paddington-bear-statue-lima",
+    "name": "Paddington Bear Statue",
+    "address": "Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "Bronze statue of Paddington Bear in Miraflores — a quirky nod to Paddington's fictional Peruvian origins, beloved by locals and tourists alike.",
+    "when": "Peru",
+    "coordinates": [-12.1200, -77.0286]
+  },
+  {
+    "id": "malecon-de-miraflores",
+    "name": "Malecón de Miraflores",
+    "address": "Malecón de la Reserva, Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "Scenic clifftop promenade overlooking the Pacific — manicured gardens, paragliders launching off the cliffs, and some of Lima's best sunsets. Connects Miraflores to Barranco.",
+    "when": "Peru",
+    "coordinates": [-12.1292, -77.0383]
+  },
+  {
+    "id": "parque-del-amor-lima",
+    "name": "Parque del Amor",
+    "address": "Malecón Cisneros, Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "\"Love Park\" on the Miraflores clifftop — famous for Victor Delfín's giant sculpture \"El Beso\" (The Kiss) and Gaudí-inspired mosaic benches overlooking the ocean.",
+    "when": "Peru",
+    "coordinates": [-12.1317, -77.0392]
+  },
+  {
+    "id": "navy-lighthouse-lima",
+    "name": "Faro de la Marina (Navy Lighthouse)",
+    "address": "Malecón de la Marina, Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "Working Navy lighthouse perched on the Miraflores cliffs with panoramic views of the Pacific coast — a peaceful and photogenic spot near Parque del Amor.",
+    "when": "Peru",
+    "coordinates": [-12.1339, -77.0397]
+  },
+  {
+    "id": "osaka-pardo-y-aliaga-lima",
+    "name": "Osaka Pardo y Aliaga",
+    "address": "Av. Pardo y Aliaga 660, Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "Lima's most famous Nikkei (Japanese-Peruvian fusion) restaurant — creative sushi rolls, tiraditos, and yakitori-style dishes. Dinner reservation at 6pm.",
+    "when": "Peru",
+    "coordinates": [-12.1119, -77.0289]
+  },
+  {
+    "id": "huaca-pucllana",
+    "name": "Huaca Pucllana",
+    "address": "Gral. Borgoño 800, Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "Ancient adobe pyramid from the Lima culture (400–700 AD) sitting in the middle of modern Miraflores — one of Lima's most surreal sights. Night visits are especially atmospheric.",
+    "when": "Peru",
+    "coordinates": [-12.1106, -77.0331]
+  },
+  {
+    "id": "la-mar-lima",
+    "name": "La Mar",
+    "address": "Av. La Mar 770, Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "Gaston Acurio's legendary cevichería — the gold standard for Peruvian ceviche in Lima. Expect a wait; no reservations. Order the classic ceviche and leche de tigre.",
+    "when": "Peru",
+    "coordinates": [-12.1192, -77.0322]
+  },
+  {
+    "id": "punto-azul-lima",
+    "name": "Punto Azul",
+    "address": "Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "Popular, no-frills cevichería in Miraflores beloved by locals — excellent ceviche, tiradito, and chicharrón de pescado at very reasonable prices.",
+    "when": "Peru",
+    "coordinates": [-12.1136, -77.0247]
+  },
+  {
+    "id": "mangos-restaurante-lima",
+    "name": "Mangos Restaurante",
+    "address": "Miraflores, Lima, Peru",
+    "neighborhood": "Miraflores, Lima, Peru",
+    "deal": "Peruvian seafood restaurant in Miraflores with great ceviche and a lively atmosphere — solid lunch option with ocean views from the malecón area.",
+    "when": "Peru",
+    "coordinates": [-12.1361, -77.0417]
+  },
+  {
+    "id": "puente-de-los-suspiros-barranco",
+    "name": "Bridge of Sighs (Puente de los Suspiros)",
+    "address": "Puente de los Suspiros, Barranco, Lima, Peru",
+    "neighborhood": "Barranco, Lima, Peru",
+    "deal": "Romantic wooden footbridge in Barranco — legend says if you hold your breath and make a wish while crossing, it will come true. Overlooks a lush ravine leading to the sea.",
+    "when": "Peru",
+    "coordinates": [-12.1503, -77.0236]
+  },
+  {
+    "id": "playa-barranco",
+    "name": "Playa Barranco",
+    "address": "Barranco, Lima, Peru",
+    "neighborhood": "Barranco, Lima, Peru",
+    "deal": "Rocky beach at the base of Barranco's dramatic cliffs — beautiful green clifftops, crashing Pacific waves, and the bohemian neighborhood above. Better for views than swimming.",
+    "when": "Peru",
+    "coordinates": [-12.1558, -77.0228]
+  },
+  {
+    "id": "isolinas-barranco",
+    "name": "Isolina",
+    "address": "Av. San Martín 101, Barranco, Lima, Peru",
+    "neighborhood": "Barranco, Lima, Peru",
+    "deal": "Acclaimed Peruvian tavern in Barranco serving comforting, old-school Lima cooking — chicharrón sandwiches, anticuchos, and massive portions. Rustic and beloved.",
+    "when": "Peru",
+    "coordinates": [-12.1508, -77.0247]
+  },
+  {
+    "id": "ciclos-cafe-lima",
+    "name": "Ciclos Café",
+    "address": "Barranco, Lima, Peru",
+    "neighborhood": "Barranco, Lima, Peru",
+    "deal": "Specialty coffee experience in Barranco offering a tasting of 3 different espresso shots — great for exploring Peru's incredible coffee culture.",
+    "when": "Peru",
+    "coordinates": [-12.1475, -77.0219]
+  },
+  {
+    "id": "cafe-floral-lima",
+    "name": "Café Floral",
+    "address": "Lima, Peru",
+    "neighborhood": "Lima, Peru",
+    "deal": "Lima café known for super smooth, excellent coffee — a chill spot for a quiet cup with great brews.",
+    "when": "Peru",
+    "coordinates": [-12.1467, -77.0203]
+  },
+  {
+    "id": "crem-dela-crem-lima",
+    "name": "Crem Dela Crem",
+    "address": "Lima, Peru",
+    "neighborhood": "Lima, Peru",
+    "deal": "Beloved Lima ice cream spot — creative flavors and high-quality ingredients make this a must-stop for a sweet treat.",
+    "when": "Peru",
+    "coordinates": [-12.1486, -77.0225]
+  },
+  {
+    "id": "plaza-mayor-lima",
+    "name": "Plaza Mayor (Plaza de Armas Lima)",
+    "address": "Plaza Mayor, Cercado de Lima, Lima, Peru",
+    "neighborhood": "Historic Center, Lima, Peru",
+    "deal": "Lima's historic main square and the founding site of the city — surrounded by the Government Palace, Cathedral, and Archbishop's Palace. A UNESCO World Heritage Site.",
+    "when": "Peru",
+    "coordinates": [-12.0464, -77.0328]
+  },
+  {
+    "id": "cathedral-of-lima",
+    "name": "Cathedral of Lima",
+    "address": "Plaza Mayor, Cercado de Lima, Lima, Peru",
+    "neighborhood": "Historic Center, Lima, Peru",
+    "deal": "Imposing 16th-century baroque cathedral on Lima's Plaza Mayor — contains the tomb of Francisco Pizarro, the conquistador who founded Lima, and a fine religious art museum.",
+    "when": "Peru",
+    "coordinates": [-12.0461, -77.0294]
+  },
+  {
+    "id": "san-francisco-monastery-lima",
+    "name": "San Francisco Monastery",
+    "address": "Jr. Ancash 471, Cercado de Lima, Lima, Peru",
+    "neighborhood": "Historic Center, Lima, Peru",
+    "deal": "Stunning 17th-century monastery with a jaw-dropping baroque library housing 25,000 antique volumes, plus catacombs beneath housing thousands of remains. One of Lima's highlights.",
+    "when": "Peru",
+    "coordinates": [-12.0453, -77.0281]
   }
 ]
